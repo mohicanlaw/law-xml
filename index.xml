@@ -78,5 +78,8 @@
   <collection name="us/nsn/mohican/council/meetings">
     <heading>Tribal Council Motions on By-Laws.</heading>
     <xi:include href="./us/nsn/mohican/council/meetings/2025/index.xml"/>
+  <collection name="us/nsn/mohican/council/opinions">
+    <heading>Tribal Court of Appeals Opinions</heading>
+    <xi:include href="./us/nsn/mohican/council/opinions/2002/index.xml"/>
   </collection>
 </library>
