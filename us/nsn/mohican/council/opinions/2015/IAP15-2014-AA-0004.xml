@@ -1,13 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. IAP15-2014-AA-0004">
   <num>IAP15-2014-AA-0004</num>
-  <container>
-    <heading>Placeholder</heading>
-    <text>Interlocutory Appeal from an order of the Stockbridge-Munsee Tribal Court (SMTC); Honorable Candace Des Armo Coury. <em>Reversed.</em></text>
-  </container>
+  <heading>Rose Nunez vs. Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center</heading>
+  <meta>
+    <effective>2015-06-29</effective>
+    <citations>
+      <citation type="res" url="./IAP15-2014-AA-0004.pdf">Case No. IAP15-2014-AA-0004</citation>
+    </citations>
+  </meta>
+  <text>
+    <div class="opinion-heading">
+      <caption>
+        <h4 class="center">Stockbridge-Munsee Court of Appeals</h4>
+      </caption>
+      <hr class="dashed-hr"/>
+      <div class="container">
+        <div class="column">
+          <div class="row">
+            <span class="left">Rose Nunez,</span>
+            <span class="right">Petitioner,</span>
+          </div>
+          <div class="row">
+            <span class="center">-v-</span>
+          </div>
+          <div class="row">
+            <span class="left">Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center,</span>
+            <span class="right">Respondents,</span>
+          </div>
+        </div>
+        <div class="column">
+          <div class="centered-content">
+            <span>Case No.: IAP15-2014-AA-0004</span>
+            <span>Memorandum Opinion and Order</span>
+          </div>
+        </div>
+      </div>
+      <hr class="dashed-hr"/>
+    </div>
+  </text>
+  <text>Interlocutory Appeal from an order of the Stockbridge-Munsee Tribal Court (SMTC); Honorable Candace Des Armo Coury. <em>Reversed.</em></text>
   <container>
     <heading>INTRODUCTION</heading>
-    <text>Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center (hereinafter "Respondents") petitioned this court for interlocutory appeal following the Trial Court's denial of Respondents' motion to dismiss. The Respondents moved to dismiss Petitioner Nunez's (Nunez) claims asserting her complaint failed to state a claim upon which relief could be granted. We agree and find that Nunez did not meet the statutory requirements of §53.5(A)(3) because she failed to give a brief description of the facts and events that gave rise to the alleged violations of the Respondents. We therefore reverse the Trial Court's decision to dismiss the Respondents' motion to dismiss.</text>
+    <text>Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center (hereinafter "Respondents") petitioned this court for interlocutory appeal following the Trial Court's denial of Respondents' motion to dismiss. The Respondents moved to dismiss Petitioner Nunez's (Nunez) claims asserting her complaint failed to state a claim upon which relief could be granted.<fn path="|footnotes|1">1</fn> We agree and find that Nunez did not meet the statutory requirements of §53.5(A)(3) because she failed to give a brief description of the facts and events that gave rise to the alleged violations of the Respondents. We therefore reverse the Trial Court's decision to dismiss the Respondents' motion to dismiss.</text>
   </container>
   <container>
     <heading>JURISDICTION</heading>
@@ -64,4 +98,10 @@
     <text>________________________________________</text>
     <text>Chief Judge Marianne Higgins</text>
   </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>The Respondents also argue they are immune from suit based on the Doctrine of Sovereign Immunity. Because the Respondents are successful in their §53.5(A)(3) claim, the issue of sovereign immunity is not addressed in this opinion.</text>
+    </footnote>
+  </footnotes>
 </document>

@@ -1,10 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 10-AP-2010-AA-0004">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 10-AP-2010-AA-0004">
   <num>10-AP-2010-AA-0004</num>
-  <container>
-    <heading>Placeholder</heading>
-    <text>The above-entitled action having been heard by the Stockbridge-Munsee Appellant Court by Pro tempore Honorable Gerold Smith, Honorable Candace Des Armo Coury and Pro tempore, Honorable Donald Gurnoe. This Court affirmed the lower courts decision and order by the Stockbridge-Munsee Court in Case No. 2010-AA-0004.</text>
-  </container>
+  <heading>Tammy Pecore vs. Stockbridge-Munsee Community d.b.a Mohican North Star Gaming and Resort</heading>
+  <meta>
+    <effective>2011-06-23</effective>
+    <citations>
+      <citation type="res" url="./10-AP-2010-AA-0004.pdf">Case No. 10-AP-2010-AA-0004</citation>
+    </citations>
+  </meta>
+  <text>
+    <div class="opinion-heading">
+      <caption>
+        <h4 class="center">Stockbridge-Munsee Appellant Court</h4>
+      </caption>
+      <hr class="dashed-hr"/>
+      <div class="container">
+        <div class="column">
+          <div class="row">
+            <span class="left">Tammy Pecore,</span>
+            <span class="right">Plaintiff/Appellant,</span>
+          </div>
+          <div class="row">
+            <span class="center">-v-</span>
+          </div>
+          <div class="row">
+            <span class="left">Stockbridge-Munsee Community d.b.a Mohican North Star Gaming and Resort,</span>
+            <span class="right">Defendant/Appellee,</span>
+          </div>
+        </div>
+        <div class="column">
+          <div class="centered-content">
+            <span>Case No.: 10-AP-2010-AA-0004</span>
+            <span>Order</span>
+          </div>
+        </div>
+      </div>
+      <hr class="dashed-hr"/>
+    </div>
+  </text>
+  <text>The above-entitled action having been heard by the Stockbridge-Munsee Appellant Court by Pro tempore Honorable Gerold Smith, Honorable Candace Des Armo Coury and Pro tempore, Honorable Donald Gurnoe. This Court affirmed the lower courts decision and order by the Stockbridge-Munsee Court in Case No. 2010-AA-0004.</text>
   <container>
     <heading>MOTION FOR RECONSIDERATION</heading>
     <text>The Motion for Reconsideration is now before the Stockbridge-Munsee Appellant Court by Pro tempore, Gerold Smith, Pro tempore, Honorable Donald Gurnoe and Honorable Candace Des Armo Coury.</text>
