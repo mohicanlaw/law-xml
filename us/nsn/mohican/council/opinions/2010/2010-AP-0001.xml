@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2010-AP-0001">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2010-AP-0001">
   <num>2010-AP-0001</num>
+  <heading>Loren Miller vs. Human Resources Department and John Miller</heading>
+  <meta>
+    <effective>2010-03-15</effective>
+    <citations>
+      <citation type="res" url="./2010-AP-0001.pdf">Case No. 2010-AP-0001</citation>
+    </citations>
+  </meta>
   <container>
     <heading>Jurisdictional Statement</heading>
     <text>Petitioner appeals from a Stockbridge-Munsee Tribal Court decision dismissing Petitioner's civil complaint 2009-CV-0006 filed with the Court on October 26, 2009. The Stockbridge-Munsee Tribal Court of Appeals has jurisdiction over this review pursuant to §1.6(L) Stockbridge-Munsee Tribal Law, Tribal Court Code which states that "The Stockbridge-Munsee Tribal Court of Appeals shall have jurisdiction over appeals from the Trial Tribal Court." Further, §24 (A) of the Stockbridge-Munsee Tribal Court Rules of Procedure states that "The Court of Appeals shall have exclusive jurisdiction to review all decisions of the Tribal Court as provided herein. The decision of the Court of Appeals shall be final as to all such review."</text>
