@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2009-FA-0021">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2009-FA-0021">
   <num>2009-FA-0021</num>
+  <heading>Stockbridge-Munsee Community vs. Bert W. Davids</heading>
+  <meta>
+    <effective>2010-12-10</effective>
+    <citations>
+      <citation type="res" url="./2009-FA-0021.pdf">Case No. 2009-FA-0021</citation>
+    </citations>
+  </meta>
   <container>
     <text>The defendant, Bert W. Davids (Davids) was issued an ordinance violation citation pursuant to Section 21.19 of the Stockbridge-Munsee Code which in part prohibits use of motor vehicles ...on logging roads during spring break up. After trial the court issued the following order.</text>
   </container>
