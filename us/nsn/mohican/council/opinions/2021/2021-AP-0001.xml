@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2021-AP-0001">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2021-AP-0001">
   <num>2021-AP-0001</num>
+  <heading>Gregory Miller, et al. vs. Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>2021-08-21</effective>
+    <citations>
+      <citation type="res" url="./2021-AP-0001.pdf">Case No. 2021-AP-0001</citation>
+    </citations>
+  </meta>
   <container>
     <heading>RELEVANT FACTS</heading>
     <text>Appellants, Gregory Miller and Scott R. Vele, sued the Stockbridge-Munsee Community, ("Community"), on March 29, 2021 over tribal membership issues in Case Number 2021-CV- 0009. On April 19, 2021, the Community filed a motion to dismiss this case on the grounds of lack of subject matter jurisdiction and tribal sovereign immunity. No response to this motion appears in the appellate record.</text>
