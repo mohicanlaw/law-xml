@@ -8,6 +8,36 @@
       <citation type="res" url="./2018-AP-0003.pdf">Case No. 2018-AP-0003</citation>
     </citations>
   </meta>
+  <text>
+    <div class="opinion-heading">
+      <caption>
+        <h4 class="center">In the Court of Appeals for the Stockbridge-Munsee Community Band of Mohican Indians at Bowler, Wisconsin</h4>
+      </caption>
+      <hr class="dashed-hr"/>
+      <div class="container">
+        <div class="column">
+          <div class="row">
+            <span class="left">Adam Hoffman, Beau Miller,</span>
+            <span class="right">Appellants,</span>
+          </div>
+          <div class="row">
+            <span class="center">-v-</span>
+          </div>
+          <div class="row">
+            <span class="left">Stockbridge-Munsee Human Resources Department, Stockbridge-Munsee Community Tribal Council,</span>
+            <span class="right">Appellees,</span>
+          </div>
+        </div>
+        <div class="column">
+          <div class="centered-content">
+            <span>Case No.: 2018-AP-0003</span>
+            <span>Opinion</span>
+          </div>
+        </div>
+      </div>
+      <hr class="dashed-hr"/>
+    </div>
+  </text>
   <container>
     <num>I.</num>
     <heading>SUMMARY</heading>
@@ -27,7 +57,9 @@
     <heading>STANDARD OF REVIEW</heading>
     <text>Stockbridge-Munsee Community Tribal Code Chapter 1 <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01.09|(g)">§1.9(G)(4)</cite> establishes the Standard of Review</text>
     <text>
-      <strong><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01.09|(g)">Section 1.9(G)(4)</cite></strong>
+      <strong>
+        <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01.09|(g)">Section 1.9(G)(4)</cite>
+      </strong>
     </text>
     <text>
       <em>Errors of law will be reviewed de novo with no deference to the Trial Court's holding. Errors of fact will be reviewed based on whether there is substantial evidence to support the finding. Judicial rulings in discretionary matter are reviewed based on whether there was an abuse of discretion. Errors that are not likely to have a substantial impact on the decision or on substantial rights are considered "harmless errors" and are not the bases for reversal.</em>
