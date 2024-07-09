@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 3-AP-2013-CV-0002">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 3-AP-2013-CV-0002">
   <num>3-AP-2013-CV-0002</num>
   <heading>Robert Miller III vs. Bart D.Schultz</heading>
   <meta>
@@ -63,7 +63,7 @@
       <text>In addition, the Rule of Procedure Mission statement includes this statement:</text>
       <text>The Stockbridge-Munsee Tribal Court pledges to preserve the sovereignty of the Mohican Nation and to maintain the peace and unity of its people through the administration of justice. The Court endeavors to be the 'cornerstone of the existence of the Mohican Nation.'</text>
       <text>Section 17.2(0) defines the Reservation to mean "the exterior boundaries of the Stockbridge-Munsee Reservation as defined by the Treaty of 1856."</text>
-      <text>Although Chapter 17 contains another more limiting jurisdictional statement, we believe the best policy for tribal court is to read jurisdiction as being broad, where possible, without unduly hurting the Tribe's sovereignty or the role of the legislature. It is clear from Sec. 1.2(A) that the jurisdiction of the Tribal Court is very broad and that it has been established and functions as a court of general jurisdiction.</text>
+      <text>Although Chapter 17 contains another more limiting jurisdictional statement, we believe the best policy for tribal court is to read jurisdiction as being broad, where possible, without unduly hurting the Tribe's sovereignty or the role of the legislature. It is clear from Sec. 1.2(A) that the jurisdiction of the Tribal Court is very broad and that it has been established and functions as a court of general jurisdiction.<fn path="|footnotes|1">1</fn></text>
       <text>As far as personal jurisdiction, Miller is a tribal member and thus the Tribe's jurisdiction over him is unquestioned. Schultz voluntarily submitted himself to the jurisdiction of the Court.</text>
     </container>
     <container>
@@ -107,4 +107,10 @@
       <strong>Stockbridge-Munsee Tribal Court</strong>
     </text>
   </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Although res Judicata concerns are arguably present, they were not raised or argued by Miller at the trial court and therefore are considered waived. Furthermore, we rule that Schultz shall not be permitted to recover twice even though he now has a state court and tribal court judgment. Payments made by Miller will be in satisfaction of both judgments.</text>
+    </footnote>
+  </footnotes>
 </document>

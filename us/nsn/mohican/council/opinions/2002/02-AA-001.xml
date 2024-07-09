@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 02-AA-001">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 02-AA-001">
   <num>02-AA-001</num>
   <heading>Sunday R. Warrington vs. Stockbridge-Munsee Tribe, et al.</heading>
   <meta>
@@ -53,7 +53,7 @@
   </container>
   <container>
     <heading>Issues</heading>
-    <text>The Appellees basic arguments are that the Appellant did not file sufficient notice of her intent to appeal her termination. Appellees argue, even though the Appellant had documents filed within the time frame allowed under Chapter 53 of the Tribal Code, that those documents were deficient in meeting the requirements of notice of appeal. The Appellees then argue that the motion to have the case proceed through Court was not filed within the time limits established by Chapter 53 of the Tribal Code.</text>
+    <text>The Appellees basic arguments are that the Appellant did not file sufficient notice of her intent to appeal her termination. Appellees argue, even though the Appellant had documents filed<fn path="|footnotes|1">1</fn> within the time frame allowed under Chapter 53 of the Tribal Code, that those documents were deficient in meeting the requirements of notice of appeal. The Appellees then argue that the motion to have the case proceed through Court was not filed within the time limits established by Chapter 53 of the Tribal Code.</text>
     <text>The Appellant argues that she did file the required documents in a timely manner and, therefore, should be allowed to proceed to a hearing on her appeal of her termination.</text>
   </container>
   <container>
@@ -92,7 +92,7 @@
       <strong>The employee must initiate the internal grievance process or court action, whichever applies, within 30 calendar days of the event or events that gave rise to the employee's claim.</strong>
     </text>
     <text>These are the only two sections of Chapter 53 referenced in the letter of termination. It is clear that the Appellant elected to proceed under §53.4(2) (a) and to take her dispute directly to the Tribal Court. The Appellant attempted to initiate the court action under §53.45 by filing documents within 30 calendar days of her termination.</text>
-    <text>The Appellees further argue that the Appellant did not follow the proper procedures in filing in Court. Their argument is; <em>….the Court procedures says the petition filed in Tribal Court under this ordinance, meaning the employee rights ordinance, may be in any written format, but shall, but shall include at least the following information. It list {sic} 4 items: name and address of the petitioner, a statement identifying the enumerated right under section 53.3; description of the facts; then 4</em><sup><em>th</em></sup><em>, specific request stating required relief. Out of those shallow requirements, 3 of them were not even close to being met."</em></text>
+    <text>The Appellees further argue that the Appellant did not follow the proper procedures in filing in Court. Their argument is; <em>….the Court procedures says the petition filed in Tribal Court under this ordinance, meaning the employee rights ordinance, may be in any written format, but shall, but shall include at least the following information. It list {sic} 4 items: name and address of the petitioner, a statement identifying the enumerated right under section 53.3; description of the facts; then 4</em><sup><em>th</em></sup><em>, specific request stating required relief. Out of those shallow requirements, 3 of them were not even close to being met."</em><fn path="|footnotes|2">2</fn><em/></text>
     <text>This argument would be given more weight if the letter of termination had also referred the Appellant to §$53.5 of the Tribal Code which states:</text>
     <text>
       <strong>Section 53.5 Court Procedures</strong>
@@ -147,4 +147,14 @@
     <text>________________________________________</text>
     <text>Honorable David D. Raasch</text>
   </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Filed is used in the sense that the appellant had documents initial by a tribal employee on November 26, 2001.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>Transcript, line 22, page p.4.</text>
+    </footnote>
+  </footnotes>
 </document>
