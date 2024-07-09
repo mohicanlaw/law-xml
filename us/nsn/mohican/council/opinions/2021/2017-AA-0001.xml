@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2017-AA-0001">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2017-AA-0001">
   <num>2017-AA-0001</num>
   <heading>Michael G. Miller vs. Stockbridge-Munsee Community</heading>
   <meta>
@@ -38,11 +38,13 @@
       <hr class="dashed-hr"/>
     </div>
   </text>
-  <text>This action was heard by the Stockbridge-Munsee Tribal Court, the Honorable Robert Collins II, presiding, who determined that the Stockbridge-Munsee Community was entitled to summary judgment in this wrongful termination case. Plaintiff Michael G. Miller appeals this decision. <strong><em>We affirm.</em></strong></text>
+    <text>This action was heard by the Stockbridge-Munsee Tribal Court, the Honorable Robert Collins II, presiding, who determined that the Stockbridge-Munsee Community was entitled to summary judgment in this wrongful termination case. Plaintiff Michael G. Miller appeals this decision. <strong><em>We affirm.</em></strong></text>
   <container>
     <heading>OPINION</heading>
     <text>
       <em>Before the Honorable Gregory Smith, Chief Justice, the Honorable Eric M. Lochen, Justice and the Honorable Ronald R. Hofer, Special Justice pro tem.</em>
+      <fn path="|footnotes|1">1</fn>
+      <em/>
     </text>
     <text><strong>HOFER, S. J. </strong>Michael G. Miller (Miller) appeals from a decision and order of the tribal trial court granting summary judgment to the Stockbridge-Munsee Community (Tribe) in Miller's wrongful termination case. On appeal, Miller raises three broad challenges to the summary judgment, none of which persuades this court. We affirm the decision and order of the tribal trial court.</text>
   </container>
@@ -59,7 +61,7 @@
     <text>Miller first argues that the trial court erred in determining <em>"as a fact that there was a breach of confidentiality."</em> We cannot agree. Section 5.16(D) of the Stockbridge-Munsee Tribal Court Rules of Procedure states that <em>"summary judgment...shall be granted by the Trial Court if it appears there is no genuine issue of material fact and that the moving party is entitled to judgment as a matter of law."</em> We cannot agree that the tribal court found any fact; rather, it made conclusions from the evidence.</text>
     <text>Mills' August 8 email cautions Miller about breaches of confidentiality. The Employee Action of August 30, suspended Miller for six days for "Breach of Confidentiality". The action of September 8 suspended him for five days pending termination for the following reasons: <em>"On 8/16/17 open discussion of HR matters regarding hiring of specific individuals, their preference status and preference hiring without a legitimate need to know. Signed Confidentiality Statement. Serious nature of Confidentiality in Human Resource has been breached."</em> Finally, Miller's September 15 Notice of Termination of Employment detailed the breaches. Therefore, we conclude that the record conclusively establishes breaches of confidentiality.</text>
     <text>Next, Miller argues that <em>"[t]he trial court erred in giving short shrift to the allegations of the plaintiff..."</em> Primarily, his argument refers to his averment that his superiors directed him to do what he did. We cannot agree.</text>
-    <text>We take persuasive guidance from our neighboring jurisdiction of Wisconsin. We review summary judgments <em>de novo</em>, employing the same methodology as the trial court. <u>Green Spring Farms v. Kersten</u>, 136 Wis. 2d 304, 315, 401 N.W.2d 816 (1987). Having read the nearly four hundred pages of appendices, we conclude as did the trial court: no genuine issue of material fact is created by Miller's averment in an affidavit that his superiors "directed" him to do what he did. Miller's averment creates no genuine issue of fact because he failed to corroborate his claim in the totality of the record.</text>
+    <text>We take persuasive guidance from our neighboring jurisdiction of Wisconsin.<fn path="|footnotes|2">2</fn> We review summary judgments <em>de novo</em>, employing the same methodology as the trial court. <u>Green Spring Farms v. Kersten</u>, 136 Wis. 2d 304, 315, 401 N.W.2d 816 (1987). Having read the nearly four hundred pages of appendices, we conclude as did the trial court: no genuine issue of material fact is created by Miller's averment in an affidavit that his superiors "directed" him to do what he did. Miller's averment creates no genuine issue of fact because he failed to corroborate his claim in the totality of the record.</text>
     <text>Miller's averment refers to two superiors: Evan Mills and Michael Bonakdar. Miller apparently did not depose Mills. Further, considering that Mills, on August 8, warned Miller of his confidentiality problem of August 2, we conclude that nothing of record supports Miller's claim that the confidentiality breach was occasioned by Mills.</text>
     <text>Miller did depose Bonakdar, but to no real avail. Miller hangs his argument on one hypothetical question asking Bonakdar if, in the course of filling casino employment positions, one might <em>"actually talk[] to… the supervisors of a potential applicant."</em> He replied, <em>"I can't recall him doing anything like that, but I guess it could be a possibility, yeah."</em> The realm of the merely possible in no way bolsters Miller's bare affidavit averment.</text>
     <text>On this point, Miller argues from <u>Matsushita Elec, Ind. Co. v. Zenith Radio</u>, 475 U.S. 574 (1986) which employs the F.R.C.P. Rule 56, the federal summary judgment rule. But that case, at page 587, states <em>"In the language of the Rule, the nonmoving party must come forward with 'specific facts showing that there is a genuine issue for trial.' Fed. Rule Civ. Proc, 56(e)."</em> Miller has here failed to show a genuine issue because nothing in the substantial record supports or corroborates his mere averment that his superiors 'directed' his actions.</text>
@@ -91,4 +93,14 @@
       </strong>
     </text>
   </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>The Honorable Howard J. Bichler recused himself from this case due to a potential conflict of interest. The Honorable Ronald R. Hofer, the "NJC Distinguished Professor" for the National Judicial College, was appointed on a <em>pro tem</em> basis for this case.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>This Honorable Court is not bound by decision of state courts because the Stockbridge-Munsee Community is a sovereign Native American nation. Accord, Manygoats V. GMAC, 4 Nav. R. 94 (Nav. Ct. App. 1983), at *7 and <u>Matos v.  Mashantucket Pequot Gaming Enter.,</u> 2 Mash. 130 (Mash. Pequot Ct. App. 1997), at *4].</text>
+    </footnote>
+  </footnotes>
 </document>

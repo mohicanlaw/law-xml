@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2003-AA-0001">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 2003-AA-0001">
   <num>2003-AA-0001</num>
   <heading>Jeffery L. Pecore vs. Stockbridge-Munsee Community<br/>Human Resources Director and Interview Panel, et al.</heading>
   <meta>
@@ -51,9 +51,9 @@
   </container>
   <container>
     <heading>Procedural History</heading>
-    <text>On January 24, 2003, the Stockbridge-Munsee Tribe ("Tribe") posted an employment position for superintendent of the Tribe's golf course. The Petitioner applied for the position and received an interview, but was not selected for the position that was offered to a non-Indian. On received an interview, April 15, 2003, the Tribe sent the Petitioner a written notice that he was not selected for the job. On April 23, 2003, the Petitioner filed a request for a tribal court review of that hiring decision.</text>
+    <text>On January 24, 2003, the Stockbridge-Munsee Tribe ("Tribe") posted an employment position for superintendent of the Tribe's golf course. The Petitioner applied for the position and received an interview,<fn path="|footnotes|1">1</fn> but was not selected for the position that was offered to a non-Indian. On received an interview, April 15, 2003, the Tribe sent the Petitioner a written notice that he was not selected for the job. On April 23, 2003, the Petitioner filed a request for a tribal court review of that hiring decision.</text>
     <text>The Tribe moved the Trial Court for a summary judgment. Although a response was filed by the Petitioner in opposition to summary judgment, the Trial Court found that summary judgment was proper because there were no disputed material facts, nor any allegations of new evidence in the case.</text>
-    <text>On February 6, 2005, the Honorable Kimberly Vele issued a memorandum opinion upholding the Tribe's decision not to hire the Petitioner for the position that was posted for superintendent of the Tribe's golf course. On February 23, 2005, the Petitioner filed a notice of appeal of the Trial Court's decision. This case comes before the Court on the Petitioner's appeal of the memorandum opinion. The Court accepted the appeal, has reviewed all of the filings in this case and has exercised its discretion to issue this opinion based on the record.</text>
+    <text>On February 6, 2005, the Honorable Kimberly Vele issued a memorandum opinion upholding the Tribe's decision not to hire the Petitioner for the position that was posted for superintendent of the Tribe's golf course. On February 23, 2005, the Petitioner filed a notice of appeal of the Trial Court's decision. This case comes before the Court on the Petitioner's appeal of the memorandum opinion. The Court accepted the appeal, has reviewed all of the filings in this case and has exercised its discretion to issue this opinion based on the record.<fn path="|footnotes|2">2</fn></text>
   </container>
   <container>
     <heading>Jurisdiction</heading>
@@ -160,7 +160,7 @@
       <num>12.</num>
       <text>That Affiant makes this affidavit in opposition to defendant's motion for summary judgment.</text>
     </para>
-    <text>Aff. in Opp'n to Motion for Summ. J. at page 1-2.</text>
+    <text>Aff. in Opp'n to Motion for Summ. J. at page 1-2<fn path="|footnotes|3">3</fn>.</text>
     <text>The Petitioner included the referenced exhibits with the Affidavit in Opposition to Motion for Summary Judgment.</text>
   </container>
   <container>
@@ -169,7 +169,7 @@
       <num>1.</num>
       <text>
         <strong>
-          <em>Did Mr. Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter?</em>
+          <em>Did Mr Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter?</em>
         </strong>
       </text>
       <text>This Court has carefully reviewed the documents filed in this case and finds that the Affidavit in Opposition for Summary Judgment did not contain any new material facts that would have created a disputed issue. The only hint of a new fact was the assertion that Mr. Pecore was hired as a consultant, between October 15, 2001 and January 3, 2002 at the Pine Hills Golf Course, to restore the greens. However, the Appellant does not affirmatively provide any foundation as to how this assertion creates a new material fact that needs to be tried. The Trial Court did not err in making the determination that there were no disputed issues of material fact. Based on this Court's review of the filings, we agree with the Trial Court that the only dispute concerned a matter of law regarding the proper application of the hiring preference policy Summary judgment was appropriate in this case.</text>
@@ -178,7 +178,7 @@
       <num>2.</num>
       <text>
         <strong>
-          <em>Did the Tribe improperly apply the job description in its decision not to hire Mr. Pecore?</em>
+          <em>Did the Tribe improperly apply the job description in its decision not to hire Mr Pecore?</em>
         </strong>
       </text>
       <text>The Trial Court found that the Tribe did not err in its decision to decline hiring the Appellant. This Court agrees with the analysis of the Trial Court in that the qualifications for a job position must be "job related" and that the position applied for as Superintendent would include responsibilities such as supervising and training of staff, budget management, etc., and that <em>"past management and oversight experience would be essential indicators of future ability to perform the supervisory functions required for the position."</em> Trial Court Decision at 5 (emphasis added). The Trial Court found that "there seems little doubt that the basic qualifications of the position were reasonably related to the job and not intended to be a barrier to employment." Id. at 5. The Appellant does not dispute the fact that he was criminally convicted and fired for misconduct from this same position previously. Therefore, this Court must agree with the Trial Court's determination that the Tribe did not err when it included prior work history as a qualification for this position.</text>
@@ -227,4 +227,20 @@
     <text>________________________________________</text>
     <text>Stephen Grochowski</text>
   </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>The tribal preference information form indicates the Petitioner is an enrolled member of the Stockbridge-Munsee</text>
+      <text>Tribe, Enrollment No. 000967.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>Stockbridge-Munsee Tribal Court Rules of Procedure, § 23 (K) states: "At the discretion of the appellate body, to aid it in reaching a wise decision or to avoid injustice to the parties, an oral hearing on the appeal of matters of law may be ordered."</text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text>Affidavit in Opposition to Motion for Summary Judgment filed with the Stockbridge-Munsee Tribal Court on</text>
+      <text>September 22, 2003. Two page document with no page numbers.</text>
+    </footnote>
+  </footnotes>
 </document>
