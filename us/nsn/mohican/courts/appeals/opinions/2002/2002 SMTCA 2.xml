@@ -69,15 +69,15 @@
   <footnotes>
     <footnote>
       <num>1</num>
-      <text>SMC v. Joseph Miller, Case No. 97-AA-004 Page 2</text>
+      <text><cite doc="97-AA-004" path="2">SMC v. Joseph Miller, Case No. 97-AA-004 Page 2</cite></text>
     </footnote>
     <footnote>
       <num>2</num>
-      <text>SMC -v- Joseph Miller 97-AA-004 at page 6</text>
+      <text><cite doc="97-AA-004" path="6">SMC -v- Joseph Miller 97-AA-004 at page 6</cite></text>
     </footnote>
     <footnote>
       <num>3</num>
-      <text>'Sunday R. Warrington -v- Stockbridge-Munsee Tribe, Mohican North Star Casino and Bingo, and Tammy R. Pecore, Assistant General Manager in her official capacity Case No. 2002-AA-001</text>
+      <text>'<cite doc="2002-AA-001">Sunday R. Warrington -v- Stockbridge-Munsee Tribe, Mohican North Star Casino and Bingo, and Tammy R. Pecore, Assistant General Manager in her official capacity Case No. 2002-AA-001</cite></text>
     </footnote>
   </footnotes>
 </document>
