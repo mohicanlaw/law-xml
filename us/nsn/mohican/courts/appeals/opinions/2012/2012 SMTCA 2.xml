@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. AP-2008-AA-0003">
-  <num>AP-2008-AA-0003</num>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2012 SMTCA 2">
+  <num>2012 SMTCA 2</num>
   <heading>Kylee Dodge vs. Stockbridge-Munsee Community</heading>
   <meta>
     <effective>2012-11-29</effective>
     <citations>
-      <citation type="res" url="./AP-2008-AA-0003.pdf">Case No. AP-2008-AA-0003</citation>
+      <citation type="reporter" url="./2012 SMTCA 2.pdf">2012 SMTCA 2</citation>
+      <citation type="opinion" url="./AP-2008-AA-0003.pdf">Case No. AP-2008-AA-0003</citation>
     </citations>
   </meta>
   <text>
@@ -41,7 +42,7 @@
   <container>
     <heading>Opinion</heading>
     <text>The Appellant, the Stockbridge-Munsee Community, through its undersigned attorney, files this Notice of Appeal in relation to the Order Clarifying Issue of Paid Time Off (PTO) issued November 16, 2012 by the Trial Court in the above-captioned matter.</text>
-    <text>The Court of Appeals has jurisdiction to hear this appeal under Section 1.6 (L) of the Tribal Court Code and §23 of the Stockbridge-Munsee Rules of Procedure since it is an appeal of a decision from the trial tribal court. Such jurisdiction is consistent with past precedent of the court of appeal. <em>Joseph Miller v. Stockbridge-Munsee Community</em>, Case No. 97-AA-4 (Court of Appeals, December 21, 1998). The underlying case was filed under Chapter 53, the Employee Rights Ordinance.</text>
+    <text>The Court of Appeals has jurisdiction to hear this appeal under Section 1.6 (L) of the Tribal Court Code and §23 of the Stockbridge-Munsee Rules of Procedure since it is an appeal of a decision from the trial tribal court. Such jurisdiction is consistent with past precedent of the court of appeal. <cite doc="97-AA-4"><em>Joseph Miller v. Stockbridge-Munsee Community</em>, Case No. 97-AA-4 (Court of Appeals, December 21, 1998)</cite>. The underlying case was filed under Chapter 53, the Employee Rights Ordinance.</text>
     <text>The Appellant contends that the trial court made a serious error of law in its November 16, 2012 Order. More specifically, the remedies ordered in relation to PTO are no consistent with Section 53.5 (F) of Stockbridge-Munsee tribal law. This provision limits the scope of remedies, particularly monetary remedies, available in actions brought under Chapter 53. The trial court's order would result in the payment of approximately $23,000 for forfeited PTO time along with awarding a bank of 320 hours of PTO to Kylee Dodge. This is in addition to the Appellant's previous payment of back pay to Mr. Dodge. Remedies beyond the scope of those remedies authorized under Section 53.5 (F) are barred by the Stockbridge-Munsee Community's sovereign immunity per Section 53.5 (G). Stockbridge-Munsee tribal law provides that such a serious error of law is grounds for an appeal to the Court of Appeals (Section 1.6 (L)(3)).</text>
     <text>This Notice of Appeal is timely as it is filed within 45-days of the November 16, 2012 Order regarding the disposition of the case as required under Section 1.6.5 (C)(1).</text>
     <text>The Appellant requests that the Court of Appeals stay the implementation of the PTO remedies identified in the November 16, 2012 Order pending the resolution of this appeal. The Stockbridge-Munsee Rules of Procedure authorize the issuance of stays of injunctive orders pending appeals in §23 (H) or posting of a cash deposit for the judgment amount with the court pending an appeal under §23 (D). The court of appeals has previously granted a stay of relief in relation to a case filed under Chapter 53 in <em>Stockbridge-Munsee Community v. Elton Louis</em>, 2000-AA-003 (Court of Appeals, December 12, 2006).</text>
