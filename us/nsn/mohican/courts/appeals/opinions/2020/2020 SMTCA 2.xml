@@ -124,11 +124,17 @@
     </footnote>
     <footnote>
       <num>3</num>
-      <text><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02">5</cite><em>-A.4(C)</em></text>
+      <text>
+        <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02">5</cite>
+        <em>-A.4(C)</em>
+      </text>
     </footnote>
     <footnote>
       <num>4</num>
-      <text><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02">5</cite><em>-A. B(3)</em></text>
+      <text>
+        <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02">5</cite>
+        <em>-A. B(3)</em>
+      </text>
     </footnote>
   </footnotes>
 </document>
