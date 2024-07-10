@@ -37,8 +37,7 @@
   </container>
   <container>
     <heading>JURISDICTION</heading>
-    <text>The Court has jurisdiction over this matter per §24 of the Stockbridge-Munsee (hereinafter</text>
-    <text>"SM") Tribal Court's Rules of Procedure, which gives the Court of Appeals exclusive jurisdiction to review all decisions of the Tribal Court.</text>
+    <text>The Court has jurisdiction over this matter per <cite doc="SMRP" path="§24" proof="needed">§24 of the Stockbridge-Munsee (hereinafter "SM") Tribal Court's Rules of Procedure</cite>, which gives the Court of Appeals exclusive jurisdiction to review all decisions of the Tribal Court.</text>
   </container>
   <container>
     <heading>HISTORICAL BACKGROUND</heading>
