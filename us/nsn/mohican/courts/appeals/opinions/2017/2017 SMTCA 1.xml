@@ -106,7 +106,9 @@
     </footnote>
     <footnote>
       <num>3</num>
-      <text><cite doc="2016-RO-0007">Id.</cite></text>
+      <text>
+        <cite doc="2016-RO-0007">Id.</cite>
+      </text>
     </footnote>
     <footnote>
       <num>4</num>
@@ -114,7 +116,9 @@
     </footnote>
     <footnote>
       <num>5</num>
-      <text><cite doc="16-AP-2016-RO-0007">Id.</cite></text>
+      <text>
+        <cite doc="16-AP-2016-RO-0007">Id.</cite>
+      </text>
     </footnote>
     <footnote>
       <num>6</num>

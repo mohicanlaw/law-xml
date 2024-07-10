@@ -75,7 +75,9 @@
     </footnote>
     <footnote>
       <num>2</num>
-      <text><cite doc="2008-AA-0003" path="1">Id, pages 1-2.</cite></text>
+      <text>
+        <cite doc="2008-AA-0003" path="1">Id, pages 1-2.</cite>
+      </text>
     </footnote>
     <footnote>
       <num>3</num>
