@@ -49,7 +49,7 @@
   </container>
   <container>
     <heading>Jurisdiction</heading>
-    <text>Section 23 (I) of the Stockbridge-Munsee Tribal Court Rules of Procedure grants this Court the jurisdiction to review the case at hand. The Court, having been granted jurisdiction to review the final judgment of the Trial Court, now proceeds to review that final judgment and issue its opinion.</text>
+    <text><cite doc="SMRP" path="§23|(I)" proof="needed">Section 23 (I) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> grants this Court the jurisdiction to review the case at hand. The Court, having been granted jurisdiction to review the final judgment of the Trial Court, now proceeds to review that final judgment and issue its opinion.</text>
   </container>
   <container>
     <heading>Summary of Issues</heading>
