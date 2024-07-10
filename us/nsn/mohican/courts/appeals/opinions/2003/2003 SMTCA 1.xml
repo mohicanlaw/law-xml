@@ -53,7 +53,7 @@
   </container>
   <container>
     <heading>Jurisdiction</heading>
-    <text>This Appellate Court asserts jurisdiction under 1.6(1) of the Stockbridge-Munsee Ordinances (SMTO). That section states, <em>"The Stockbridge-Munsee Tribal Court of Appeals shall have jurisdiction over appeals from the Trial Tribal Court."</em></text>
+    <text>This Appellate Court asserts jurisdiction under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(1)">1.6(1)</cite> of the Stockbridge-Munsee Ordinances (SMTO). That section states, <em>"The Stockbridge-Munsee Tribal Court of Appeals shall have jurisdiction over appeals from the Trial Tribal Court."</em></text>
   </container>
   <container>
     <heading>Scope of Review</heading>
@@ -116,11 +116,11 @@
     </footnote>
     <footnote>
       <num>2</num>
-      <text>§53.3 (M) Employees may not be terminated from employment without just cause.</text>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.3|(M)">§53.3 (M)</cite> Employees may not be terminated from employment without just cause.</text>
     </footnote>
     <footnote>
       <num>3</num>
-      <text>Chapter 53, Stockbridge-Munsee Tribal Law-Employee Rights Ordinance §53.1</text>
+      <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="53">Chapter 53</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.1">Stockbridge-Munsee Tribal Law-Employee Rights Ordinance §53.1</cite></text>
     </footnote>
     <footnote>
       <num>4</num>
