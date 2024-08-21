@@ -53,9 +53,11 @@
     <text>We are presented with the question of what Nunez must plead in order to state a claim for relief under <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">$53.3(M) of the SM Tribal Law.</cite> Nunez asserts in her complaint that she was terminated from employment without just cause in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">§53.3(M)</cite>.</text>
     <text><cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(a)|(3)">Section 53.5(A)(3) of the SM Tribal Law (Employee Rights Ordinance)</cite> requires that a complaint</text>
     <text>filed in tribal court include:</text>
-    <text>
-      <em>A brief description of the facts and events that gave rise to the alleged violation, including the names of potential witnesses and the name of the petitioner's supervisor. If applicable.</em>
-    </text>
+    <include>
+      <text>
+        <em>A brief description of the facts and events that gave rise to the alleged violation, including the names of potential witnesses and the name of the petitioner's supervisor. If applicable.</em>
+      </text>
+    </include>
     <text>The federal counterpart to <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(a)|(3)">§53.5(A)(3)</cite> is Rule 8(a)(2) of the Federal Rules of Civil Procedure (FRCP), which requires:</text>
     <text>
       <em>A short and plain statement of the claim showing that the pleader is entitled to relief.</em>

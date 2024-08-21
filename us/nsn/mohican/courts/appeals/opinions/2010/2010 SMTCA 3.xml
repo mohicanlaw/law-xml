@@ -35,28 +35,32 @@
   <container>
     <heading>FACTS</heading>
     <text>Kylee Dodge (Dodge) an employee of  the Community was terminated by letter on February 7, 2008. A copy of the letter was sent to Human Resources. Dodge was also notified in the termination letter that he had a right to the internal grievance process outlined in the Information Handbook for Employees of the Mohican Nation, Effective October 1, 1996 or he could go directly to Tribal Court pursuant to the terms of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53, the Stockbridge-Munsee Employee Rights Ordinance</cite>. Dodge was also informed that each appeal option has deadlines and he needed to be responsible for meeting them. Dodge filed a grievance over his termination with his supervisor and received a timely response denying reinstatement on February 20, 2008. According to the Handbook Dodge's next procedure was to submit a follow-up grievance with his supervisor's supervisor. He did not do so. Rather, Dodge submitted a letter to the Stockbridge-Munsee Human Resource Department. That letter in part read:</text>
-    <text>...the prior exhaustive internal grievance relief efforts has failed to bring resolution, therefore I am requesting that appeal proceedings be initiated according to the policies available to Tribal employees including,</text>
-    <para>
-      <num>1.</num>
-      <text>An intermediate meeting with an impartial employment mediation panel or</text>
-    </para>
-    <para>
-      <num>2.</num>
-      <text>Tribal Council review and consideration.</text>
-    </para>
-    <para>
-      <num>3.</num>
-      <text>Tribal Court appeal as established in <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Employee Rights ordinance, Chapter 53</cite>.</text>
-    </para>
+    <include>
+      <text>...the prior exhaustive internal grievance relief efforts has failed to bring resolution, therefore I am requesting that appeal proceedings be initiated according to the policies available to Tribal employees including,</text>
+      <para>
+        <num>1.</num>
+        <text>An intermediate meeting with an impartial employment mediation panel or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Tribal Council review and consideration.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Tribal Court appeal as established in <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Employee Rights ordinance, Chapter 53</cite>.</text>
+      </para>
+    </include>
     <text>Dodge received no communication from Human Resources and eventually filed a complaint with the Tribal Court on April 17, 2008.</text>
   </container>
   <container>
-    <heading>STATUTE</heading>
-    <text>
-      <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">Section 53.45 Statute of Limitations</cite>
-    </text>
-    <text>The employee must initiate the internal grievance process or court action, whichever applies, within 30 calendar days of the event or events that gave rise to the employee's claim. In cases where the employee initiates the internal grievance process, the employee must initiate the court action within 30 calendar days of receiving the final written communication of the internal grievance process.</text>
-    <text>The Community believed the filing in Tribal Court occurred 57 days after the date the final written communication of the internal grievance process was given and filed a motion to dismiss on statute of limitations and sovereign immunity grounds with Tribal Court. That motion was subsequently denied which brought this interlocutory appeal.</text>
+    <include>
+      <heading>STATUTE</heading>
+      <text>
+        <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">Section 53.45 Statute of Limitations</cite>
+      </text>
+      <text>The employee must initiate the internal grievance process or court action, whichever applies, within 30 calendar days of the event or events that gave rise to the employee's claim. In cases where the employee initiates the internal grievance process, the employee must initiate the court action within 30 calendar days of receiving the final written communication of the internal grievance process.</text>
+      <text>The Community believed the filing in Tribal Court occurred 57 days after the date the final written communication of the internal grievance process was given and filed a motion to dismiss on statute of limitations and sovereign immunity grounds with Tribal Court. That motion was subsequently denied which brought this interlocutory appeal.</text>
+    </include>
   </container>
   <container>
     <heading>ANALYSIS</heading>

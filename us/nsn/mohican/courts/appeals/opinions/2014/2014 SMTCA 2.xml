@@ -50,12 +50,16 @@
     <container>
       <heading>Jurisdiction</heading>
       <text>Miller's leading argument is that the Trial Court does not have jurisdiction because all of the events which are the subject of the case occurred in Brown County, Wisconsin, off the Stockbridge-Munsee Reservation. We are not persuaded by this argument. The Stockbridge-Munsee Tribal Court jurisdictional statement is very broad:</text>
-      <text>The Stockbridge-Munsee Tribal Court shall exercise jurisdiction over all matters within the power and authority of the Stockbridge-Munsee Community including controversies arising out of the Constitution of the Stockbridge-Munsee Community; laws, statutes, ordinances, resolutions and codes enacted by the Stockbridge-Munsee Tribal Council; and such other matters arising under enactments of the Tribal Council or the customs and traditions of the Stockbridge-Munsee Community. This jurisdiction extends over the Stockbridge-Munsee Community and its territory, persons who enter its territory, its members, and persons who interact with the Tribe or its members wherever found.</text>
+      <include>
+        <text>The Stockbridge-Munsee Tribal Court shall exercise jurisdiction over all matters within the power and authority of the Stockbridge-Munsee Community including controversies arising out of the Constitution of the Stockbridge-Munsee Community; laws, statutes, ordinances, resolutions and codes enacted by the Stockbridge-Munsee Tribal Council; and such other matters arising under enactments of the Tribal Council or the customs and traditions of the Stockbridge-Munsee Community. This jurisdiction extends over the Stockbridge-Munsee Community and its territory, persons who enter its territory, its members, and persons who interact with the Tribe or its members wherever found.</text>
+      </include>
       <text>
         <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.02|(a)">Sec. 1.2(A), SM Ord.</cite>
       </text>
       <text>In addition, the Rule of Procedure Mission statement includes this statement:</text>
-      <text>The Stockbridge-Munsee Tribal Court pledges to preserve the sovereignty of the Mohican Nation and to maintain the peace and unity of its people through the administration of justice. The Court endeavors to be the 'cornerstone of the existence of the Mohican Nation.'</text>
+      <include>
+        <text>The Stockbridge-Munsee Tribal Court pledges to preserve the sovereignty of the Mohican Nation and to maintain the peace and unity of its people through the administration of justice. The Court endeavors to be the 'cornerstone of the existence of the Mohican Nation.'</text>
+      </include>
       <text><cite doc="Old Stockbridge-Munsee Tribal Code" path="§17.2|(0)">Section 17.2(0)</cite> defines the Reservation to mean "the exterior boundaries of the Stockbridge-Munsee Reservation as defined by the Treaty of 1856."</text>
       <text>Although <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.05">Chapter 17</cite> contains another more limiting jurisdictional statement, we believe the best policy for tribal court is to read jurisdiction as being broad, where possible, without unduly hurting the Tribe's sovereignty or the role of the legislature. It is clear from <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.02|(a)">Sec. 1.2(A)</cite> that the jurisdiction of the Tribal Court is very broad and that it has been established and functions as a court of general jurisdiction.<fn path="|footnotes|1">1</fn></text>
       <text>As far as personal jurisdiction, Miller is a tribal member and thus the Tribe's jurisdiction over him is unquestioned. Schultz voluntarily submitted himself to the jurisdiction of the Court.</text>
