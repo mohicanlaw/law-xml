@@ -30,12 +30,12 @@
       <hr class="dashed-hr"/>
     </div>
   </text>
-  <container>
+  <container name="SUMMARY">
     <num>I.</num>
     <heading>SUMMARY</heading>
     <text>This is a direct appeal of the Trial Judge's dismissal of Appellant's lawsuit over an employee wage dispute with the Community. The order at issue was issued by the Tribal Court on August 17<sup>th</sup>, 2018. Appellants filed their brief with this Honorable Court on November 5<sup>th</sup>, 2018 and the Community filed an Appellee's brief on December 4<sup>th</sup>, 2018. The matter was argued before the three member Stockbridge-Munsee Court of Appeals on February 8<sup>th</sup>, 2018.</text>
   </container>
-  <container>
+  <container name="FACTS ON APPEAL">
     <num>II.</num>
     <heading>FACTS ON APPEAL</heading>
     <text>In their February 6<sup>th</sup>, 2017 petition in the Tribal Court, Appellants alleged that they received notice from the Community that their wages would be frozen pursuant to a new wage scale adopted by the Community. As a result, Appellant Hoffman's employment wages from the Community were frozen until 2022 and Appellant Miller's employment wages were frozen until 2024.</text>
@@ -44,7 +44,7 @@
     <text>Pursuant to the award of back-pay to each of the Appellants, the Tribal Community filed a Motion to Dismiss in this case arguing that since the back-pay rewards had been awarded, there no longer was a case or controversy. Subsequent to the Motion to Dismiss the Tribal Judge recused herself from the case.</text>
     <text>On August 20<sup>th</sup>, 2018 <em>Pro Tem</em> Judge Layatlati Hill issued a decision on the Motion to Dismiss. In granting the Motion to Dismiss, the Court ruled that the only available relief, back-pay, was granted and no further case or controversy existed.</text>
   </container>
-  <container>
+  <container name="STANDARD OF REVIEW">
     <num>III.</num>
     <heading>STANDARD OF REVIEW</heading>
     <text><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Stockbridge-Munsee Community Tribal Code Chapter 1</cite><cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.09|(g)|(4)">§1.9(G)(4)</cite> establishes the Standard of Review</text>
@@ -60,7 +60,7 @@
     </include>
     <text>For purposes of this case, errors of law will be reviewed "<em><u>de novo</u></em>" and those of fact on "whether there is substantial evidence to support the finding".</text>
   </container>
-  <container>
+  <container name="ISSUES ON APPEAL">
     <num>IV.</num>
     <heading>ISSUES ON APPEAL</heading>
     <text>Pursuant to an earlier administrative order of the Court, the general issues were stated as follows:</text>
@@ -77,7 +77,7 @@
       </text>
     </para>
   </container>
-  <container>
+  <container name="THE COMMUNITY POSSESSES SOVEREIGN IMMUNITY WHICH CAN BE WAIVED ONLY BY THE COMMUNITY OR THE UNITED STATES">
     <num>V.</num>
     <heading>THE COMMUNITY POSSESSES SOVEREIGN IMMUNITY WHICH CAN BE WAIVED ONLY BY THE COMMUNITY OR THE UNITED STATES</heading>
     <text>Federal Case law has on many occasions affirmed the doctrine of sovereign immunity in Tribes, (e.g., <cite doc="436 U.S. 49">Santa Clara Pueblo v. Martinez</cite>). Only when that immunity is waived by clear language of the United States, or the Tribe itself, is a valid waiver in place</text>
@@ -156,13 +156,13 @@
       <text>The Stockbridge-Munsee Tribal Code is narrowly written to provide a single monetary remedy back-pay. Here appellants have been awarded sums that represent the difference between what they earned and what they would have earned but-for the freeze on wages. Due to the Community's limited waiver of sovereign immunity, Appellants cannot receive payments for allegations of involuntary servitude, deprivation liberty of prosperity without due process of law, harassment and violations of the Indian Civil Rights Act (25 U.S.C. §§ 1301-1304), as the Court is foreclosed from hearing such claims.</text>
     </para>
   </container>
-  <container>
+  <container name="CONCLUSION">
     <num>VI.</num>
     <heading>CONCLUSION</heading>
     <text>This Court finds that Appellants are limited to a single monetary remedy-back-pay. Any other monetary request is precluded by the limited waiver language of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(f)">Stockbridge-Munsee Tribal Code §53.5 (F)</cite>. Action by the Stockbridge-Munsee Tribal Counsel in reversing the wage freeze and awarding "back-pay" was the appropriate monetary remedy.</text>
     <text>At this time, Appellants' only course of action to receive additional compensation or for other claims exceeding the limited waiver provided in <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(f)">§53.5 (F)</cite> would be to petition the Stockbridge-Munsee Government to recognize additional compensation or amend Tribal law to allow that compensation.</text>
   </container>
-  <container>
+  <container name="ORDER">
     <num>VII.</num>
     <heading>ORDER</heading>
     <text>

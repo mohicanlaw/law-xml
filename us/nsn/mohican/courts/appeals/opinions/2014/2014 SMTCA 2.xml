@@ -30,11 +30,11 @@
       <hr class="dashed-hr"/>
     </div>
   </text>
-  <container>
+  <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <text>This case arises out of a simple promissory note given by Appellant, Mr. Miller (hereafter Miller) to Appellee, Mr. Schultz (hereafter Schultz), in the amount of $30,000. It has turned into a convoluted and winding procedural maze. For the reasons below we affirm the Trial Court's grant of summary judgment in favor of Mr. Schultz.</text>
   </container>
-  <container>
+  <container name="STATEMENT OF THE CASE">
     <heading>STATEMENT OF THE CASE</heading>
     <text>The material facts are not in dispute. On or about August 31, 2007, Miller and Schultz executed the Note under which Schultz agreed to lend Miller $30,000 and Miller agreed to pay it back over the next several years by paying monthly installments of $525. Miller paid on the note from October 2007 to March 2010. The balance remaining at that time was nearly $19,000. Schultz attempted to collect by first dealing directly with Miller. Those efforts were unsuccessful. Schultz then sued Miller for the balance due in Brown County Circuit Court. In June of 2011, Schultz obtained a default judgment in the amount of $18,888.26 plus costs and interest.</text>
     <text>On or about October 5, 2012, Schultz initiated a garnishment action in the Stockbridge-Munsee Tribal Trial Court under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.05">Chapter 17 of the Tribe's ordinance</cite>. A hearing was eventually held on Schultz's filing and a default order of garnishment was entered on or about January 4, 2013. Miller moved to re-open the judgment based on improper service and on <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.05.23">Sec. 17.23 of the Tribe's ordinance</cite> which requires that any foreign judgment must be filed within one year from its date of issuance. The garnishment was in place a short time but then on or about February 7, 2013, the Trial Court vacated the earlier garnishment order.</text>
@@ -44,7 +44,7 @@
     <text>On or about July 10, 2013, based in large part on Miller's failure to respond to the Requests for Admission, Schultz filed a Motion for Summary Judgment. It does not appear that Miller directly responded to the Summary Judgment but he did file a Motion to Dismiss on August 15, 2013.</text>
     <text>After a series of other procedural issues, Judge Mary Adams was assigned pro tem to hear the matter. She held a Pre-Trial Conference on October 10, 2013 and eventually granted Schultz's Motion for Summary Judgment. That ruling is now before us in this appeal.</text>
   </container>
-  <container>
+  <container name="DISCUSSION">
     <heading>DISCUSSION</heading>
     <text>Miller, through counsel, raises several objections to the Trial Court's decision to grant summary judgment in favor of Schultz. We address each in turn.</text>
     <container>
@@ -80,7 +80,7 @@
       <text>Schultz provided supporting documents to justify his actions. This was done timely and completely. Miller failed to respond to the Requests for Admission, did not appear in court twice and did not show the Court why he should not pay his debt in full.</text>
     </container>
   </container>
-  <container>
+  <container name="CONCLUSION">
     <heading>CONCLUSION</heading>
     <text>The Trial Court decision and judgment are affirmed.</text>
   </container>

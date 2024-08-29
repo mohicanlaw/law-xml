@@ -31,18 +31,18 @@
     </div>
   </text>
   <text>This case has come before the Stockbridge-Munsee Court of Appeals, Appellate Court Judges Chad Hendricks, Stephan Grochowski, and Marianne Higgins presiding.</text>
-  <container>
+  <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <text>Jeff Vele appeals an order of the Stockbridge-Munsee Tribal Court (hereinafter "SMTC" ) finding him guilty of making a libelous statement against Jo Ann Schedler in the Mohican News.</text>
     <text>
       <em>Reversed.</em>
     </text>
   </container>
-  <container>
+  <container name="JURISDICTION">
     <heading>JURISDICTION</heading>
     <text>The Court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6(L) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals exclusive jurisdiction to review appeals from the Trial Court.</text>
   </container>
-  <container>
+  <container name="HISTORICAL BACKGROUND">
     <heading>HISTORICAL BACKGROUND</heading>
     <text>Appellant Jeff Vele, Sr. (hereinafter "Vele") is editor of the Stockbridge-Munsee Community newspaper, the Mohican News, and ran for the office of Vice-President in the Fall/2013 Tribal Council election. Respondent Jo Ann Schedler (hereinafter "Schedler") ran for office of Tribal President in the same election. Prior to the Fall/2013 election, the Mohican News included a section entitled Election Platforms in its October 1<sup>st</sup> edition. This section gave candidates running for tribal council the opportunity to express their views on issues they felt were important to members of the community.</text>
     <text>In Vele's <em>Platform,</em> which is at issue in this appeal, he stated:</text>
@@ -55,11 +55,11 @@
     <text>A trial was conducted with Vele as the only remaining defendant. At trial, Schedler and her husband described the severity of her emotional injuries. No evidence was presented by Schedler to prove the statement made by Vele was in fact false. She also made no effort to prove that she suffered actual pecuniary loss as a result of the alleged libel. There were no expert witnesses that testified Schedler's emotional injuries resulted in depression. Vele did testify there was no malicious intent by his comments and the trial court agreed that his statement in the Mohican News was not a malicious attack.</text>
     <text>At the conclusion of the trial, the court ruled Vele's statement was libelous and that he violated three General Policies of the Mohican News. The court ordered Vele to print a retraction in the Mohican News, provide Schedler with a letter of apology, and awarded Schedler court costs and legal fees in the amount of $900. The court also stated that if Vele appealed the trial court's decision, it would double the award of court costs and legal fees he owes to Schedler to $1800.</text>
   </container>
-  <container>
+  <container name="STANDARD OF REVIEW">
     <heading>STANDARD OF REVIEW</heading>
     <text>In reviewing a public figure libel case, the court has a constitutional duty to exercise independent review of the entire record of the trial court to determine if the record establishes actual malice with convincing clarity.</text>
   </container>
-  <container>
+  <container name="ANALYSIS">
     <heading>ANALYSIS</heading>
     <text>The question presented is whether <cite doc="Stockbridge-Munsee Tribal Code" path="GOV.01">Chapter 2</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§GOV.01.01|(a)">§2.1(A) of the Stockbridge-Munsee Bill of Rights</cite>,</text>
     <text>25 U.S.C. § 1302(a)(1) of the Indian Civil Rights Act of 1968 (ICRA), and the First Amendment of the U.S. Constitution shields Vele from tort liability for his speech in this case. <cite doc="Stockbridge-Munsee Tribal Code" path="§GOV.01.01|(a)">Section 2.1(A) of the Stockbridge-Munsee Bill of Rights</cite> and 25 U.S.C. § 1302(a)(1) of the ICRA states that the tribe "shall not make or enforce any law abridging the freedom of speech or press."<fn path="|footnotes|1">1</fn> <em>Id.</em></text>
@@ -93,7 +93,7 @@
       <text>Stockbridge-Munsee Tribal Law does state "whenever there is uncertainty or a question as to the interpretation of certain provisions of this code, tribal law or custom shall be controlling and where appropriate may be based on the written or oral testimony of a qualified tribal elder, historian or other representative." <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">ESTABLISHING THE COURT: JUDGES; COURT PERSONNEL, Chapter 1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.03|(b)">§1.3(B) <em>Purpose and Construction.</em></cite> However, counsel for Schedler does not back up his assertions by providing the Court with any specific tribal custom, law, or code he is referring to. Furthermore, raising the issue of tribal custom for the first time on appeal, without giving Vele the chance to respond, violates his due process rights guaranteed by the Stockbridge-Munsee Bill of Rights and the ICRA. Due process means that parties should clearly understand what they are accused of doing, what the basis of the accusation is, and have a chance to respond to these accusations in court. Therefore, because counsel for Schedler does not provide the court with any basis of his claim, and since his claim is unaccompanied by developed argument, it must be waived. See <cite doc="424 F.3d 97" path="103"><em>Tejada-Batista v. Morales,</em> 424 F.3d 97, 103 (1st Cir. 2005)</cite>.</text>
     </container>
   </container>
-  <container>
+  <container name="CONCLUSION">
     <heading>CONCLUSION</heading>
     <text>We conclude that Schedler is a public official/figure as defined in <em>Gertz</em>. Any person who puts themselves in a position to run for political office in the community is by definition a public official/figure. Furthermore, <cite doc="Stockbridge-Munsee Tribal Code" path="§GOV.01.01|(a)">§2.1(A) of the Stockbridge-Munsee Bill of Rights</cite>, 25 U.S.C. § 1302(a)(1) of the ICRA. and the First Amendment requires that we prohibit Schedler from recovering damages for libel relating to her official conduct because she failed to prove that Vele's statement was made with actual malice or a reckless disregard of the truth. <em>Judgement reversed.</em></text>
   </container>

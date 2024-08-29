@@ -31,15 +31,15 @@
     </div>
   </text>
   <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Layatalati Hill, Diane House, and John Powless III presiding.</text>
-  <container>
+  <container name="Background">
     <heading>Background</heading>
     <text>A petition was filed with the Stockbridge-Munsee Tribal Trial Court (hereinafter the "SMTC") requesting permanent injunctive relief, and the cancellation of the scheduled Recall Election for December 3, 2016. On November 23, 2016, The SMTC denied the petitioner's request for permanent injunctive relief and further ordered the Recall Election move forward as scheduled. On November 28, 2016, Appellants/Petitioners ("Appellants") filed a Notice of Appeal of the SMTC's decision that denied their request for injunctive relief. On December 1, 2016, the Respondents/Appellees ("Appellees") filed motion to dismiss this appeal.</text>
   </container>
-  <container>
+  <container name="Jurisdiction">
     <heading>Jurisdiction</heading>
     <text>The court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6 (L) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals the jurisdiction to hear appeals from the Trial Tribal Court.</text>
   </container>
-  <container>
+  <container name="Issues Presented">
     <heading>Issues Presented</heading>
     <text>Was formal notice provided to the Appellants in accordance with <cite doc="2013R0005"><u>Chicks v. Doxtator and Recall Election Board</u>, Case nos. 2013R0005 (<em>Chicks</em> I, April 25, 2013)</cite> and <cite doc="2013R0006">2013R0006 (<em>Chicks II</em>, July 24, 2013)</cite>? Yes. The Court finds reasonable due process was met when the Recall Election Notification of November 9<sup>th</sup>, 2016 was served by Tribal police on the Appellants. In addition, notice was provided to the membership when the Recall Board provided public notice in the newspaper and mailed postcards to the members.</text>
     <text>Was the Recall Election procedure properly followed? Yes. The <cite doc="Stockbridge-Munsee Constitution and By-laws" path="V|2">Constitution and By-Laws of the Stockbridge-Munsee Community Article 5 Sect 2 a-c</cite> provides the procedure as follows:</text>
@@ -73,7 +73,7 @@
     </include>
     <text>If recalled in the previous election cycle, in this case 2015, those recalled cannot run or hold office for four years from the date of removal from office. Although a new Tribal Council election was held in 2016, the recall process was started during the 2015 term and the Recall Process laid out in the Constitution was properly followed and must be completed. The fact that two of the Appellants did not run for reelection in 2016 and are therefore, not currently on the Council does not relieve them of the 2015 Recall Election. If any of the Appellants are removed based on the December 3, 2016 Recall Election, the four (4) year ban on running or holding office would begin dating back to 2015. If those currently sitting on the Council are removed based on the December 3, 2016 Recall Election, they would be ineligible to run and hold office for four (4) years beginning in 2015. Therefore, they would not be eligible for office for 2016 and must be removed from office leaving a vacancy to be filled. The court does not make a determination on whether or not a Recall Election can be made going further back than the previous year.</text>
   </container>
-  <container>
+  <container name="Order">
     <heading>Order</heading>
     <text>The Court denies the Appellee's motion to dismiss and affirms the SMTC's decision denying the Appellant/Petitioner's request for permanent injunctive relief and further orders the Recall Election move forward as scheduled for December 3, 2016.</text>
   </container>

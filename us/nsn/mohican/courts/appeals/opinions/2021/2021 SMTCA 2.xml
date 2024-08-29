@@ -31,7 +31,7 @@
     </div>
   </text>
   <text>This action was heard by the Stockbridge-Munsee Tribal Court, the Honorable Robert Collins II, presiding, who determined that the Stockbridge-Munsee Community was entitled to summary judgment in this wrongful termination case. Plaintiff Michael G. Miller appeals this decision. <strong><em>We affirm.</em></strong></text>
-  <container>
+  <container name="OPINION">
     <heading>OPINION</heading>
     <text>
       <em>Before the Honorable Gregory Smith, Chief Justice, the Honorable Eric M. Lochen, Justice and the Honorable Ronald R. Hofer, Special Justice pro tem.</em>
@@ -40,7 +40,7 @@
     </text>
     <text><strong>HOFER, S. J. </strong>Michael G. Miller (Miller) appeals from a decision and order of the tribal trial court granting summary judgment to the Stockbridge-Munsee Community (Tribe) in Miller's wrongful termination case. On appeal, Miller raises three broad challenges to the summary judgment, none of which persuades this court. We affirm the decision and order of the tribal trial court.</text>
   </container>
-  <container>
+  <container name="BACKGROUND">
     <heading>BACKGROUND</heading>
     <text>The Tribe employed Miller as its Talent Manager in the NorthStar Casino's Human Resources Department. On August 2, 2017, after an event at work prompted Miller to involve the Tribe's police, Miller sent an email to various individuals and attached a written statement that the Tribe later determined to have breached the confidentiality of two employees. On August 7, the Executive Director of Human Resources, Evan Mills, emailed Miller and gently cautioned him about employee relations, but the email did not mention confidentiality breaches. The next day, however, Mills emailed Miller and, among other things, included the following paragraph:</text>
     <include>

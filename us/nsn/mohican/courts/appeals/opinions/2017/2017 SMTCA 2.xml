@@ -31,19 +31,19 @@
     </div>
   </text>
   <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Diane House and Eugene White-Fish, and Chief Judge Marianne Higgins presiding.</text>
-  <container>
+  <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <text>Scott Vele, enrolled Stockbridge-Munsee Community tribal member (hereinafter "Vele"), appeals the Stockbridge-Munsee Tribal Court's (hereinafter "Tribal Court") November 3, 2016 Preliminary Injunctive Order that suspended the Election Board's October 14<sup>th</sup>, 2016 order to hold a new annual election. Vele's appeal is dismissed with prejudice.</text>
   </container>
-  <container>
+  <container name="JURISDICTION">
     <heading>JURISDICTION</heading>
     <text>The court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6 (L) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals the jurisdiction to hear appeals from the Trial Tribal Court.</text>
   </container>
-  <container>
+  <container name="PROCEDURAL BACKGROUND">
     <heading>PROCEDURAL BACKGROUND</heading>
     <text>On October 25, 2016, Mr. Vele filed a Request with the Stockbridge-Munsee Tribal Court (hereinafter "Tribal Court") to file as an Amicus Curiae and for a substitution of the judge in the matter of <cite doc="2016-RO-007"><em>Jolene Bowman and Joseph Miller, v. the Stockbridge-Munsee Election Board</em> (hereinafter "<em><u>Bowman and Miller</u></em> case"), Case No. 2016-RO-007</cite>. On November 3, 2016, the Tribal Court issued a Preliminary Injunction Order that indefinitely suspended any and all action relating to holding a new annual 2016 election. On November 4, 2016, Mr. Vele filed an appeal of this November 3rd Preliminary injunctive order with the Court of Appeals. On November 18, 2016, the Tribal Court issued a permanent injunction in the Decision and Order in the Bowman and Miller case.</text>
   </container>
-  <container>
+  <container name="ANALYSIS">
     <heading>ANALYSIS</heading>
     <text>The first matter before this Court is to acknowledge the delay in getting this matter before an Appellate panel for review. These were delays in the judicial selection/appointment process beyond this Appellate panel's control. This Court extends its sincere apologies to Mr. Vele and all other interested parties that were affected by these delays.</text>
     <text>The second matter before this Court is an initial review of the different court filings by Mr. Vele. On October 25<sup>th</sup>, Mr. Vele's filed a request to the Tribal Court to file as an Amicus Curiae and for a substitution of the judge in the <em><u>Bowman and Miller</u></em> case. On November 4<sup>th</sup>, Mr. Vele also filed an appeal of the Tribal Court's November 3<sup>rd</sup> Preliminary injunctive order in the <em><u>Bowman and Miller</u></em> case with the Court of Appeals.</text>
@@ -61,7 +61,7 @@
     <text>Mr. Velc has not filed an appeal of this November 18<sup>th</sup> Tribal Court Decision and Order. Mr.</text>
     <text>Vele had the opportunity to amend his pleadings, or file an appeal of this November 18<sup>th</sup> Decision and Order, but has not done so. Based upon the foregoing, this Court hereby dismisses this matter with prejudice as it pertains to Mr. Vele's appeal in the <em><u>Bowman and Miller</u></em> case.</text>
   </container>
-  <container>
+  <container name="CONCLUSION">
     <heading>CONCLUSION</heading>
     <text>Regarding Mr. Vele's appeal pending in the <em><u>Bowman and Miller</u></em> case, this matter is dismissed with prejudice.</text>
   </container>
