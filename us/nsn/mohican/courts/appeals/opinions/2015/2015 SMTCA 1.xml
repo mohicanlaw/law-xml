@@ -31,24 +31,24 @@
     </div>
   </text>
   <text>Interlocutory Appeal from an order of the Stockbridge-Munsee Tribal Court (SMTC); Honorable Candace Des Armo Coury. <em>Reversed.</em></text>
-  <container>
+  <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <text>Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center (hereinafter "Respondents") petitioned this court for interlocutory appeal following the Trial Court's denial of Respondents' motion to dismiss. The Respondents moved to dismiss Petitioner Nunez's (Nunez) claims asserting her complaint failed to state a claim upon which relief could be granted.<fn path="|footnotes|1">1</fn> We agree and find that Nunez did not meet the statutory requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(a)|(3)">§53.5(A)(3)</cite> because she failed to give a brief description of the facts and events that gave rise to the alleged violations of the Respondents. We therefore reverse the Trial Court's decision to dismiss the Respondents' motion to dismiss.</text>
   </container>
-  <container>
+  <container name="JURISDICTION">
     <heading>JURISDICTION</heading>
     <text>The Court has jurisdiction over this matter per <cite doc="SMRP" path="§24" proof="needed">§24 of the Stockbridge-Munsee (hereinafter "SM") Tribal Court's Rules of Procedure</cite>, which gives the Court of Appeals exclusive jurisdiction to review all decisions of the Tribal Court.</text>
   </container>
-  <container>
+  <container name="HISTORICAL BACKGROUND">
     <heading>HISTORICAL BACKGROUND</heading>
     <text>Nunez was hired as an Assistant Director of the Stockbridge-Munsee Health and Wellness Center (hereinafter "SMHWC") on June 5, 2013 and remained in that position until she was terminated on July 28, 2014. On August 15, 2014. Nunez filed a wrongful termination claim under <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">§53.3(M) of the SM Employee Rights Ordinance</cite> after she was terminated from her position as an Assistant Director. In her complaint, Nunez alleges that she was terminated from employment without <em>just cause</em> in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">§53.3(M)</cite>. Nunez requested: (1) the termination of her employment be reversed, (2) she receive back pay from the time of termination to reinstatement. and (3) she receive any other relief the court deems just and appropriate.</text>
     <text>Respondents filed a motion to dismiss arguing Nunez failed to state a claim on which relief could be granted. The Trial Court denied the Respondents' motion to dismiss on December 5. 2015. Subsequently, Respondents filed this interlocutory appeal. The Trial Court granted a stay of the proceedings pending the Appellate Court's decision of Respondents' interlocutory appeal.</text>
   </container>
-  <container>
+  <container name="STANDARD OF REVIEW">
     <heading>STANDARD OF REVIEW</heading>
     <text>Determining whether a complaint states a claim upon which relict can be granted is a question of law, which we review independently. However, we also benefit from persuasive discussions by the U.S. Supreme Court in <cite doc="550 U.S. 544"><em>Bell Atlantic Corp. v. Twombly,</em> 550 U.S. 544. 127 S.Ct. 1955 (2007)</cite> and the Wisconsin Supreme Court in <cite doc="356 Wis. 2d 665"><em>Data Key Partners v. Permira Advisers LLC,</em> 356 Wis.2d 665. 849 N.W.2d 693 (2014)</cite>.</text>
   </container>
-  <container>
+  <container name="ANALYSIS">
     <heading>ANALYSIS</heading>
     <text>We are presented with the question of what Nunez must plead in order to state a claim for relief under <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">$53.3(M) of the SM Tribal Law.</cite> Nunez asserts in her complaint that she was terminated from employment without just cause in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">§53.3(M)</cite>.</text>
     <text><cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(a)|(3)">Section 53.5(A)(3) of the SM Tribal Law (Employee Rights Ordinance)</cite> requires that a complaint</text>
@@ -75,7 +75,7 @@
     <text>The Trial Court erred when it found that Nunez complied with the requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(a)|(3)">§53.5(A)(3)</cite>. While it acknowledged that <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(a)|(3)">§53.5(A)(3)</cite> requires a brief description of the facts, the Trial Court failed to show how Nunez complied with these requirements. Simply asserting any set of facts is not enough to survive a motion to dismiss. The plaintiff's complaint must describe the facts and events that led to her termination without <em>just cause</em>. Nunez's complaint completely fails in this respect.</text>
     <text>Furthermore, the Trial Court erred when it found Nunez was not required to plead the elements of <em>just cause</em> provided for by the <em>Davids</em> case. The Trial Court's suggestion that it will determine whether the elements of the Davids case are met in trial places an undue burden on the Respondents. This precedent could lead to a never ending black hole of discovery that would cause an unjustifiable harm to the Respondents. The complaint must provide enough information to create an inference the suit has sufficient merit that allows the defendant to respond to a limited discovery demand. Therefore, since the Trial Court did not require Nunez to plead to the elements of <em>Davids</em> or require her to give a brief description of the facts or events that led to her termination. we reverse.</text>
   </container>
-  <container>
+  <container name="CONCLUSION">
     <heading>CONCLUSION</heading>
     <text>Nunez's complain cannot support the argument that the Respondents terminated Nunez without <em>just cause</em> in violation of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">Ordinance 53.3(M)</cite>. Accordingly, we reverse the Trial Court's denial of the Respondents' motion to dismiss, and render judgment dismissing all claims against the Respondents.</text>
   </container>

@@ -30,7 +30,7 @@
       <hr class="dashed-hr"/>
     </div>
   </text>
-  <container>
+  <container name="Opening Statement">
     <heading>Opening Statement</heading>
     <text>The Stockbridge-Munsee Community (Tribe) appeals the Stockbridge-Munsee Trial Court Decision of February 4, 2003. In that decision, the Trial Court held that the petitioner, Melinda Walsh, did establish, by a preponderance of the evidence, that she was terminated without cause. The Trial Court awarded the petitioner the following relief:</text>
     <include>
@@ -53,20 +53,20 @@
       </para>
     </include>
   </container>
-  <container>
+  <container name="Jurisdiction">
     <heading>Jurisdiction</heading>
     <text>This Appellate Court asserts jurisdiction under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(1)">1.6(1)</cite> of the Stockbridge-Munsee Ordinances (SMTO). That section states, <em>"The Stockbridge-Munsee Tribal Court of Appeals shall have jurisdiction over appeals from the Trial Tribal Court."</em></text>
   </container>
-  <container>
+  <container name="Scope of Review">
     <heading>Scope of Review</heading>
     <text>The Stockbridge-Munsee Tribal Court Rules of Procedure limit the Appellate Court to hear only appeals concerning matters of law.<fn path="|footnotes|1">1</fn></text>
   </container>
-  <container>
+  <container name="Issues">
     <heading>Issues</heading>
     <text>By stipulation between the parties on February 23, 2001, the sole legal claim for the Trial Court to decide was <em>".…whether Ms. Walsh's employment was terminated with just cause in accordance with <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">Section 53.3 (M)</cite>, SM Ord."</em></text>
     <text>The sole issue for this Appellate Court to decide is; did the Trial Court err in applying the facts to <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">Section 53.3 (M) of the SMTO</cite>?<fn path="|footnotes|2">2</fn></text>
   </container>
-  <container>
+  <container name="Findings of Facts">
     <heading>Findings of Facts</heading>
     <text>The facts in this case are basically undisputed, although the question remains: <em>do the facts presented rise to the level of 'just cause' to terminate the employment of Ms. Walsh? </em>The Trial Court found that they did not.</text>
     <text>On September 07, 2000, Ms. Walsh received a Stockbridge-Munsee Employee Action Notice of a five day disciplinary suspension, without pay, pending termination. On September 15, 2000, Ms. Walsh was notified that her employment was terminated effective on that date. The letter signed by Kenneth R. Ninham, gave the following grounds for termination:</text>
@@ -84,7 +84,7 @@
       </para>
     </include>
   </container>
-  <container>
+  <container name="Analysis">
     <heading>Analysis</heading>
     <text>The thrust of this appeal is to determine if there was just cause to terminate Ms. Walsh's employment. First, we must look for the definition of just cause. In review of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the SMTO</cite> governing employee rights, we find no definition of <em>just cause</em>. Therefore, we must look at prior tribal court cases where just cause was defined. <em><u><cite doc="98-AA-013">Davids v. Stockbridge-Munsee Community, 98-AA-013 (1999)</cite></u></em>, sets forth the standard for just cause. In Davids the Court said that just cause must be fair, impartial and consistent with the Tribe's policies and procedures.</text>
     <text>In absence of a clear definition of just cause within the SMTO, we will proceed under the standards set forth in Davids. In the present case, the Trial Court found that Ms. Walsh was terminated without just cause. Inserting the definition of just cause in Davids, the Trial Court found that Ms. Walsh's termination was not fair, was not impartial, was not consistent with the Tribe's policies and procedures.</text>
@@ -95,11 +95,11 @@
     <text>The Trial Court found that the described events of September 6, 2000 and September 7, 2000 did occur. These events are undisputed. However, the Trial Court found that the termination was not fair, impartial or consistent with procedural rules, based on lack of evidence of counseling, corrective measures and suitable direction to meet the standards of progressive discipline as outlined in the Green Employee Handbook. For this Appellate Court to overturn the Trial Court's decision, we must find that there was a material error in the application of the law to the facts of this case. We cannot find any material error concerning the matter of the law.</text>
     <text>The Tribe argues that the Trial Court's decision is flawed for several reasons. One is that progressive discipline is not required by the Tribe's personnel procedures. We agree. Any requirement of progressive discipline policies would prevent the Tribe from terminating an employee who has committed serious violations that may involve criminal conduct such as theft, fraud, acts of violence or any other actions that would require immediate removal from employment. We also agree with the Tribe's position that it is not an issue as to whether, or not, the Court agrees with the Tribe's management practices. We fully agree with the Tribe's position that <em>the purpose of the just cause standard is not for a wholesale substitution of the court's judgment for the employer's on management and personnel issues but rather a limited review by the court to ensure that the employer has followed its own procedures.</em><fn path="|footnotes|7">7</fn> This is exactly what the Trial Court did. It conducted a limited review of the employer's procedures and determined that Ms. Walsh was not afforded the counseling, corrective measures and suitable direction to meet the employer's standards. This Appellate Court can find no compelling errors to overturn that decision.</text>
   </container>
-  <container>
+  <container name="Conclusion">
     <heading>Conclusion</heading>
     <text>We find the Trial Court did not err in its decision, and that decision is affirmed as to its determination that Ms. Walsh's termination was without just cause.</text>
   </container>
-  <container>
+  <container name="Order">
     <heading>Order</heading>
     <text>This case is remanded back to the Trial Court for a hearing to determine damages and reinstatement consistent with the findings of the Stockbridge-Munsee Court of Appeals in <cite doc="97-AA-004">Stockbridge-Munsee v Joseph Miller 97-AA-004</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(f)">§53.5 (F) of the SMTO</cite>.</text>
   </container>

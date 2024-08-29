@@ -30,11 +30,11 @@
       <hr class="dashed-hr"/>
     </div>
   </text>
-  <container>
+  <container name="SUMMARY">
     <num>I.</num>
     <heading>SUMMARY</heading>
     <text>Defendant/Appellant Krista Malone ("Defendant/Appellant"), <em>pro se</em>, filed a Notice of Appeal with this Court on December 9, 2019, concerning a Default Judgment ordered by the Stockbridge Munsee Trial Court, Hon. Travis Miller presiding, on November 25, 2019, against Appellant and in favor of Plaintiff/Appellee Stockbridge Munsee Community ("Appellee").</text>
-    <container>
+    <container name="BACKGROUND">
       <heading>BACKGROUND</heading>
       <text>On November 21, 2019, an initial hearing was scheduled and held by the Trial Court regarding the above-captioned case, wherein Defendant/Appellant was charged with the following violations:</text>
       <para>
@@ -62,24 +62,24 @@
       <text>Defendant/Appellant completed a Notice of Appeal on the Trial Court's Order for Default Judgment on December 9, 2019, which was stamped by the Court and forwarded to the attention of the Justices on February 6, 2020. Thus, it is not clear, and a question remains as to whether proper service was effectuated upon Plaintiff/Appellee, the Notice of Appeal was timely filed with the Court, and whether either party has elected to brief on this Appeal. Given the nature of the Appeal, however, this Court will now render a decision in such a fashion that will resolve the aforementioned questions and the issue at hand in accordance with Tribal law.</text>
     </container>
   </container>
-  <container>
+  <container name="ISSUE">
     <num>II.</num>
     <heading>ISSUE</heading>
     <text>Where Defendant/Appellant was provided notice of the Trial Court's scheduled initial hearing, and Defendant/Appellant failed to appear, should this Court of Appeals reverse the Trial Court's Order for Default Judgment?</text>
   </container>
-  <container>
+  <container name="SHORT ANSWER">
     <num>III.</num>
     <heading>SHORT ANSWER</heading>
     <text>No.</text>
   </container>
-  <container>
+  <container name="DISCUSSION">
     <num>IV.</num>
     <heading>DISCUSSION</heading>
     <text>This Court reviews this matter <em>de novo</em>, and finds that the Trial Court acted within its discretion to issue an Order for Default Judgment. Defendant/Appellant raises no argument to dispute the Trial Court's action. In fact, upon review of the record, this Court notes that a phone call was received by the Clerk's office, whereby Defendant/Appellant stated that neither she nor James Madosh<fn path="|footnotes|2">2</fn> in this matter would be appearing for the initial hearing due to the fact that they were in Milwaukee at the time.</text>
     <text>This Court finds the record sufficient to conclude that Defendant/Appellant made the decision not to appear at the initial hearing and the Trial Court acted within its discretion. The Trial Court could have rescheduled the initial hearing as a one-time gesture of grace or good will, but, not being charged with assessing the full set of circumstances of this matter at the Trial Court level, far be it from this Court to step into the shoes of the Trial Court where the actions of the Trial Court are clearly within its discretion.</text>
     <text>Further, Defendant/Appellant fails to provide briefing on the issues and provides no appealable issue in the Notice of Appeal. Therefore, this Court will not assume the posture of the Trial Court and reconsider the Trial Court's decision without grounds to do so.</text>
   </container>
-  <container>
+  <container name="ORDER">
     <num>V.</num>
     <heading>ORDER</heading>
     <text>The Court ORDERS:</text>

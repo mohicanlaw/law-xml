@@ -31,13 +31,13 @@
     </div>
   </text>
   <text>The defendant, Bert W. Davids (Davids) was issued an ordinance violation citation pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.19">Section 21.19 of the Stockbridge-Munsee Code</cite> which in part prohibits use of motor vehicles ...on logging roads during spring break up. After trial the court issued the following order.</text>
-  <container>
+  <container name="Order">
     <heading>Order</heading>
     <text>IT IS THEREFORE THE ORDER OF THE STOCKBRIDGE-MUNSEE COURT: That Bert W. Davids is found guilty of violating <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.19">Section 21.19 of the Stockbridge-Munsee Tribal Ordinances</cite>; and a fine of Two Hundred Dollars ($200.00) is imposed.</text>
     <text>IT IS FURTHER ORDERED: That the guilty conviction and the fine are unconditionally stayed.</text>
     <text>The Stockbridge-Munsee Community (Community) brings this appeal arguing the trial court does not have the authority to unconditionally stay the finding of guilt. Because we find the Trial Court exceeded its authority to unconditionally stay the finding of guilt we reverse that part of the decision and enter a finding of guilt. Because the Trial Court was within its authority to unconditionally stay the $200.00 forfeiture that part of the order is affirmed.</text>
   </container>
-  <container>
+  <container name="Discussion">
     <heading>Discussion</heading>
     <text>Although the facts are interesting and certainly filled with mitigation they are not an issue for this court and are not stated here. We are simply faced with the legal issue of the courts ability to unconditionally stay a guilty finding once it is made by the court. We issue no opinion on whether for instance custom and tradition is a defense to the charge at issue. We need not do so since the court did not find Davids not guilty based on that defense. We only address the courts authority to stay a finding of guilt. We agree with the Community a defendant is either guilty or not guilty. No stay can impact that status.</text>
     <text>We do feel it important to discuss the legal authority the Court used to stay the guilty finding. The Court first found that <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.18|(A)">Section 1.18(A)</cite> grants the authority to stay a guilty finding.</text>
