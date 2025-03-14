@@ -81,9 +81,9 @@
     <num>V.</num>
     <heading>THE COMMUNITY POSSESSES SOVEREIGN IMMUNITY WHICH CAN BE WAIVED ONLY BY THE COMMUNITY OR THE UNITED STATES</heading>
     <text>Federal Case law has on many occasions affirmed the doctrine of sovereign immunity in Tribes, (e.g., <cite doc="436 U.S. 49">Santa Clara Pueblo v. Martinez</cite>). Only when that immunity is waived by clear language of the United States, or the Tribe itself, is a valid waiver in place</text>
-    <para>
+    <container name="Section 29.3 of the Community's Court Code contains a clear statement of the Community's immunity and circumstances by which a waiver is effective">
       <num>A.</num>
-      <text><cite doc="Stockbridge-Munsee Tribal Code" path="§GOV.02.03">Section 29.3 of the Community's Court Code</cite> contains a clear statement of the Community's immunity and circumstances by which a waiver is effective:</text>
+      <heading><cite doc="Stockbridge-Munsee Tribal Code" path="§GOV.02.03">Section 29.3 of the Community's Court Code</cite> contains a clear statement of the Community's immunity and circumstances by which a waiver is effective:</heading>
       <include>
         <para>
           <num>29.3</num>
@@ -101,10 +101,10 @@
         </para>
       </include>
       <text>Thus, a clear waiver containing express language detailing the Tribe's waiver must be provided within a resolution or ordinance, adopted by the Tribe in accordance with Tribal law.</text>
-    </para>
-    <para>
+    </container>
+    <container name="For the purposes of employment disputes a valid limited waiver of sovereign immunity was enacted by the Community">
       <num>B.</num>
-      <text>For the purposes of employment disputes a valid limited waiver of sovereign immunity was enacted by the Community.</text>
+      <heading>For the purposes of employment disputes a valid limited waiver of sovereign immunity was enacted by the Community.</heading>
       <text>The Stockbridge-Munsee Community enacted <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(f)">§53.5 (F)</cite> to provide the available remedies for employment cases under the limited waiver. Those remedies are:</text>
       <include>
         <para>
@@ -142,19 +142,19 @@
         </para>
       </include>
       <text>Of those remedies available under <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(f)">53.5 (F)</cite> only one provides monetary relief and is limited to back-pay not to exceed one year's wages.</text>
-    </para>
-    <para>
+    </container>
+    <container name="Stockbridge-Munsee Precedent and Statutory law limit Appellant's monetary remedies to back-pay not to exceed one year">
       <num>C.</num>
-      <text>Stockbridge-Munsee Precedent and Statutory law limit Appellant's monetary remedies to back-pay not to exceed one year.</text>
+      <heading>Stockbridge-Munsee Precedent and Statutory law limit Appellant's monetary remedies to back-pay not to exceed one year.</heading>
       <text>Two decisions of the Stockbridge-Munsee Appellate Court affirm that the only monetary remedy available in Community employment cases is "Back-pay not to exceed one (1) years wages"</text>
       <text>In <cite doc="2017-AA-0004"><u>Stockbridge-Munsee Community v. Miller</u></cite>, the Court reinstated the employee with "all back-pay, allowance and benefits less any compensation or money gained by employment or unemployment benefits since the date of termination." Only damages related to lost pay were allowable and then limited to one years' back-pay.</text>
       <text>In <cite doc="2013 SMTCA 3">Kylee Dodge vs. Stockbridge-Munsee Community, 2013 SMTCA 3, May 14th, 2013</cite>, the Court found that the Trial Court's award of 320 hours of PTO was a monetary award, and therefore, the award of PTO was not authorized by <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(f)|(3)">section 53.5 (F)(3) of the Tribal Code</cite>.</text>
-    </para>
-    <para>
+    </container>
+    <container name="Appellants' Claims for Relief are limited to back-pay, reinstatement, or a narrowly tailored non-monetary remedy">
       <num>D.</num>
-      <text>Appellants' Claims for Relief are limited to back-pay, reinstatement, or a narrowly tailored non-monetary remedy.</text>
+      <heading>Appellants' Claims for Relief are limited to back-pay, reinstatement, or a narrowly tailored non-monetary remedy.</heading>
       <text>The Stockbridge-Munsee Tribal Code is narrowly written to provide a single monetary remedy back-pay. Here appellants have been awarded sums that represent the difference between what they earned and what they would have earned but-for the freeze on wages. Due to the Community's limited waiver of sovereign immunity, Appellants cannot receive payments for allegations of involuntary servitude, deprivation liberty of prosperity without due process of law, harassment and violations of the Indian Civil Rights Act (25 U.S.C. §§ 1301-1304), as the Court is foreclosed from hearing such claims.</text>
-    </para>
+    </container>
   </container>
   <container name="CONCLUSION">
     <num>VI.</num>

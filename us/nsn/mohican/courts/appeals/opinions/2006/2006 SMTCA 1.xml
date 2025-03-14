@@ -32,8 +32,8 @@
   </text>
   <container name="Opinion">
     <heading>Opinion</heading>
-    <text class="center">Before Appellate Justices David D. Raasch, Todd Matha and Stephan Grochowski.</text>
-    <text class="center">
+    <text>Before Appellate Justices David D. Raasch, Todd Matha and Stephan Grochowski.</text>
+    <text>
       <em>Per Curium</em>
     </text>
   </container>
@@ -54,24 +54,22 @@
   <container name="Summary of Issues">
     <heading>Summary of Issues</heading>
     <text>The Appellant raises four issues on appeal.</text>
-    <include>
-      <para>
-        <num>1.</num>
-        <text>Did Mr. Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter?</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Did the Tribe improperly apply the job description in its decision not to hire the Appellant?</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Did the Tribe base its decision not to hire the Appellant on relevant and established facts?</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Did the Trial Court err when deciding that the Appellant did not meet the qualifications of the posted position?</text>
-      </para>
-    </include>
+    <para>
+      <num>1.</num>
+      <text>Did Mr. Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter?</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Did the Tribe improperly apply the job description in its decision not to hire the Appellant?</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Did the Tribe base its decision not to hire the Appellant on relevant and established facts?</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Did the Trial Court err when deciding that the Appellant did not meet the qualifications of the posted position?</text>
+    </para>
   </container>
   <container name="Pertinent Facts">
     <heading>Pertinent Facts</heading>
@@ -163,40 +161,32 @@
   </container>
   <container name="DISCUSSION OF THE ISSUES">
     <heading>DISCUSSION OF THE ISSUES</heading>
-    <para>
+    <container name="Did Mr Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter">
       <num>1.</num>
-      <text>
-        <strong>
-          <em>Did Mr Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter?</em>
-        </strong>
-      </text>
+      <heading>
+        <em>Did Mr Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter?</em>
+      </heading>
       <text>This Court has carefully reviewed the documents filed in this case and finds that the Affidavit in Opposition for Summary Judgment did not contain any new material facts that would have created a disputed issue. The only hint of a new fact was the assertion that Mr. Pecore was hired as a consultant, between October 15, 2001 and January 3, 2002 at the Pine Hills Golf Course, to restore the greens. However, the Appellant does not affirmatively provide any foundation as to how this assertion creates a new material fact that needs to be tried. The Trial Court did not err in making the determination that there were no disputed issues of material fact. Based on this Court's review of the filings, we agree with the Trial Court that the only dispute concerned a matter of law regarding the proper application of the hiring preference policy Summary judgment was appropriate in this case.</text>
-    </para>
-    <para>
+    </container>
+    <container name="Did the Tribe improperly apply the job description in its decision not to hire Mr Pecore">
       <num>2.</num>
-      <text>
-        <strong>
-          <em>Did the Tribe improperly apply the job description in its decision not to hire Mr Pecore?</em>
-        </strong>
-      </text>
+      <heading>
+        <em>Did the Tribe improperly apply the job description in its decision not to hire Mr Pecore?</em>
+      </heading>
       <text>The Trial Court found that the Tribe did not err in its decision to decline hiring the Appellant. This Court agrees with the analysis of the Trial Court in that the qualifications for a job position must be "job related" and that the position applied for as Superintendent would include responsibilities such as supervising and training of staff, budget management, etc., and that <em>"past management and oversight experience would be essential indicators of future ability to perform the supervisory functions required for the position."</em> Trial Court Decision at 5 (emphasis added). The Trial Court found that "there seems little doubt that the basic qualifications of the position were reasonably related to the job and not intended to be a barrier to employment." Id. at 5. The Appellant does not dispute the fact that he was criminally convicted and fired for misconduct from this same position previously. Therefore, this Court must agree with the Trial Court's determination that the Tribe did not err when it included prior work history as a qualification for this position.</text>
-    </para>
-    <para>
+    </container>
+    <container name="Did the Tribe base its decision not to hire the Appellant on relevant and established facts">
       <num>3.</num>
-      <text>
-        <strong>
-          <em>Did the Tribe base its decision not to hire the Appellant on relevant and established facts?</em>
-        </strong>
-      </text>
+      <heading>
+        <em>Did the Tribe base its decision not to hire the Appellant on relevant and established facts?</em>
+      </heading>
       <text>The Trial Court found, and this Court agrees, that there are no disputed facts in this case. Although the Appellant could have appealed his prior termination for misconduct, he did not. Also, the Appellant could have disputed that his prior termination should not be part of the job qualifications that the Tribe incorporates in its hiring practices, but he did not. Therefore the Tribe did not err, and the Trial Court's findings on this issue are correct.</text>
-    </para>
-    <para>
+    </container>
+    <container name="Did the Trial Court err when deciding that the Appellant did not meet the qualifications of the posted position">
       <num>4.</num>
-      <text>
-        <strong>
-          <em>Did the Trial Court err when deciding that the Appellant did not meet the qualifications of the posted position?</em>
-        </strong>
-      </text>
+      <heading>
+        <em>Did the Trial Court err when deciding that the Appellant did not meet the qualifications of the posted position?</em>
+      </heading>
       <text>The Tribe has set forth the purpose for its hiring preference policy as follows:</text>
       <include>
         <text>
@@ -211,7 +201,7 @@
       </include>
       <text>Employee Preference Policy Ordinance, Ch. 54.</text>
       <text>In reviewing the purpose of the Employee Preference Policy Ordinance, as referenced in the Trial Court's decision, this Court finds that although the main thrust is to provide optimur employment for Tribal Members, it is also intended to assure that the Tribe receives the maximum benefits generated by its entities and enterprises. This would indicate that the Tribe reserves discretion to create job descriptions that assure that the entire community benefits from having qualified employees. Therefore, the Tribe did not improperly act in creating the job description for the position of Superintendent of the Pine Hills Golf Course, which included the qualification that applicants "[m]ust have demonstrated ability to maintain satisfactory working record in any prior or current employment." Position Description Qualifications at 16. Furthermore, the Tribe did not improperly act in considering the Appellant's past work history when making its decision not to hire him for the posted position. There was no error in the Trial Court's decision.</text>
-    </para>
+    </container>
   </container>
   <container name="Conclusion">
     <heading>Conclusion</heading>

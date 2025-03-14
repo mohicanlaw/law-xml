@@ -45,9 +45,11 @@
     <para>
       <num>2.</num>
       <text><cite doc="SMRP" path="§24|(A)" proof="needed">Stockbridge-Munsee Tribal Court, Rules of Procedure, Appeals, 24 Exclusive Jurisdiction(A)</cite> it states, "The Court of Appeals shall have exclusive jurisdiction to review all decisions of the Tribal Court as provided herein. The decision of the Court of Appeals shall be final as to all such review." Notwithstanding the belated filing of this Motion, the decision of this Appellant Court is final.</text>
-      <text class="center">DECISION</text>
-      <text>The Stockbridge-Munsee Appellant Court affirms its November 22, 2010 decision.</text>
     </para>
+    <container name="DECISION">
+      <heading>DECISION</heading>
+      <text>The Stockbridge-Munsee Appellant Court affirms its November 22, 2010 decision.</text>
+    </container>
   </container>
   <procedural-data>
     <text>Dated: June 23, 2011</text>

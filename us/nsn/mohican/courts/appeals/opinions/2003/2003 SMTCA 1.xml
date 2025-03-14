@@ -33,25 +33,23 @@
   <container name="Opening Statement">
     <heading>Opening Statement</heading>
     <text>The Stockbridge-Munsee Community (Tribe) appeals the Stockbridge-Munsee Trial Court Decision of February 4, 2003. In that decision, the Trial Court held that the petitioner, Melinda Walsh, did establish, by a preponderance of the evidence, that she was terminated without cause. The Trial Court awarded the petitioner the following relief:</text>
-    <include>
-      <para>
-        <num>1.</num>
-        <text>Reinstatement to previous position as secretary/receptionist or like position,</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Back pay from September 15, 2000 to September 15, 2001,</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Reinstatement of all previous benefits</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>A record of continuity in employment in Plaintiff's personnel file.</text>
-        <text>The Tribe appealed the Trial Court's decision, with oral arguments being heard on August 22, 2003 before Appellate Judges, David Raasch, Joseph Martin and Stanley Webster.</text>
-      </para>
-    </include>
+    <para>
+      <num>1.</num>
+      <text>Reinstatement to previous position as secretary/receptionist or like position,</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Back pay from September 15, 2000 to September 15, 2001,</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Reinstatement of all previous benefits</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>A record of continuity in employment in Plaintiff's personnel file.</text>
+      <text>The Tribe appealed the Trial Court's decision, with oral arguments being heard on August 22, 2003 before Appellate Judges, David Raasch, Joseph Martin and Stanley Webster.</text>
+    </para>
   </container>
   <container name="Jurisdiction">
     <heading>Jurisdiction</heading>
@@ -79,10 +77,10 @@
         <text>
           <em>"Melinda, on 05-06-2000, and 05-24, 2000, you were counseled and given direction in terms of making necessary changes, and that improvement in your job performance was required. On 06-23-2000, I once again, informed you of the necessary changes that needed to take place. I have provided you with counseling in order to make the necessary changes. You have continued to disregard my directives and recommendations for making the necessary changes. Your failure to improve you job performance given sufficient time/counseling/corrective measure/direction is unacceptable.</em>
         </text>
-        <text>On October 11, 2000, Ms. Walsh filed a petition for reinstatement in the tribal Trial Court, alleging that she was terminated without just cause. Ms. Walsh alleged that she was not afforded the counseling and corrective actions required pursuant to Section 07-Rules to Help, of the Information Handbook for Employees of the Mohican Nation, effective October 01, 1996.</text>
-        <text>On February 04, 2003, Trial Court judge Robert Miller ruled that the Tribe did not have cause to terminate Ms. Walsh's employment. This decision was received by the parties on or about February 11, 2003. The Tribe appealed the decision of the Trial Court, and this appellate panel now reviews the decision of the Trial Court.</text>
       </para>
     </include>
+    <text>On October 11, 2000, Ms. Walsh filed a petition for reinstatement in the tribal Trial Court, alleging that she was terminated without just cause. Ms. Walsh alleged that she was not afforded the counseling and corrective actions required pursuant to Section 07-Rules to Help, of the Information Handbook for Employees of the Mohican Nation, effective October 01, 1996.</text>
+    <text>On February 04, 2003, Trial Court judge Robert Miller ruled that the Tribe did not have cause to terminate Ms. Walsh's employment. This decision was received by the parties on or about February 11, 2003. The Tribe appealed the decision of the Trial Court, and this appellate panel now reviews the decision of the Trial Court.</text>
   </container>
   <container name="Analysis">
     <heading>Analysis</heading>
