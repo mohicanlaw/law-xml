@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2008 SMTCA 1.pdf">2008 SMTCA 1</citation>
       <citation type="opinion" url="./2007-CV-0028.pdf">Case No. 2007-CV-0028</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Robert Little</name>
+        <designation>Plaintiffs-Appellants</designation>
+      </party>
+      <party>
+        <name>Darrin Church</name>
+        <designation>Defendant-Appellee</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Robert Little,</span>
-            <span class="right">Plaintiffs-Appellants,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Darrin Church,</span>
-            <span class="right">Defendant-Appellee,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <text>This matter is before the Stockbridge-Munsee Tribal Court, Court of Appeals, on appeal from a ruling of dismissal issued by the Honorable Robert Miller based on a finding that the court lacked subject matter jurisdiction to hear this matter.</text>
   <container name="Procedural History">
     <heading>Procedural History</heading>

@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2011 SMTCA 4.pdf">2011 SMTCA 4</citation>
       <citation type="opinion" url="./AP-2011-02.pdf">Case No. AP-2011-02</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Lynne  Miller</name>
+        <designation>Plaintiff-Appellant</designation>
+      </party>
+      <party>
+        <name>Judge Robert Miller Jr.</name>
+        <designation>Defendant-Appellee</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Lynne  Miller,</span>
-            <span class="right">Plaintiff-Appellant,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Judge Robert Miller Jr.,</span>
-            <span class="right">Defendant-Appellee,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <text>This is an appeal of a decision issued by Substitute Judge Wesley Martin who on May 31, 2011, dismissed the complaint of the Appellant wherein she alleged that Judge Robert Miller violated her civil rights by unreasonably and arbitrarily changing the terms of her September, 2000 final divorce.</text>

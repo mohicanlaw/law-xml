@@ -8,32 +8,17 @@
       <citation type="reporter" url="./2016 SMTCA 1.pdf">2016 SMTCA 1</citation>
       <citation type="opinion" url="./AP-2015-GU-0005.pdf">Case No. AP-2015-GU-0005</citation>
     </citations>
+    <parties>
+      <party>
+        <name>In the Guardianship Matter of:</name>
+        <designation>Elda M. Dickie (DOB: 06/21/1922)</designation>
+      </party>
+      <party>
+        <name>Shirley Dickie and Francis Smith</name>
+        <designation>Respondents</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">In the Guardianship Matter of:</span>
-            <span class="left">Elda M. Dickie (DOB: 06/21/1922)</span>
-            <span class="left">Karen Gardner,</span>
-            <span class="right">Appellant,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Shirley Dickie and Francis Smith,</span>
-            <span class="right">Respondents,</span>
-            <span class="left">Rebecca Alegria,</span>
-            <span class="right">Interested Party,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="Decision">
     <heading>Decision</heading>
     <text>This case has come before the Stockbridge-Munsee Court of Appeals, Appellate Court Judges Chad Hendricks, Diane House, and Marianne Higgins presiding.</text>

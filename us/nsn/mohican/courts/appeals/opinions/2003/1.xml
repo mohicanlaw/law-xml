@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2003 SMTCA 1.pdf">2003 SMTCA 1</citation>
       <citation type="opinion" url="./2000-AA-007.pdf">Case No. 2000-AA-007</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Melinda Walsh</name>
+        <designation>Petitioner-Appellee</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Respondent-Appellant</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Melinda Walsh,</span>
-            <span class="right">Petitioner-Appellee,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community,</span>
-            <span class="right">Respondent-Appellant,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="Opening Statement">
     <heading>Opening Statement</heading>
     <text>The Stockbridge-Munsee Community (Tribe) appeals the Stockbridge-Munsee Trial Court Decision of February 4, 2003. In that decision, the Trial Court held that the petitioner, Melinda Walsh, did establish, by a preponderance of the evidence, that she was terminated without cause. The Trial Court awarded the petitioner the following relief:</text>

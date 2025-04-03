@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2021 SMTCA 2.pdf">2021 SMTCA 2</citation>
       <citation type="opinion" url="./2017-AA-0001.pdf">Case No. 2017-AA-0001</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Michael G. Miller</name>
+        <designation>Plaintiff/Appellee</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Respondent/Appellee</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Michael G. Miller,</span>
-            <span class="right">Plaintiff/Appellee,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community,</span>
-            <span class="right">Respondent/Appellee,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <text>This action was heard by the Stockbridge-Munsee Tribal Court, the Honorable Robert Collins II, presiding, who determined that the Stockbridge-Munsee Community was entitled to summary judgment in this wrongful termination case. Plaintiff Michael G. Miller appeals this decision. <strong><em>We affirm.</em></strong></text>
   <container name="OPINION">
     <heading>OPINION</heading>

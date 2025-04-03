@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2017 SMTCA 1.pdf">2017 SMTCA 1</citation>
       <citation type="opinion" url="./16-AP-2016-RO-0007.pdf">Case No. 16-AP-2016-RO-0007</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Jolene Bowman and Joseph Miller</name>
+        <designation>Petitioners/Appellees</designation>
+      </party>
+      <party>
+        <name>Stockbridge Munsee Community Election Board</name>
+        <designation>Respondents/Appellants</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Jolene Bowman and Joseph Miller,</span>
-            <span class="right">Petitioners/Appellees,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge Munsee Community Election Board,</span>
-            <span class="right">Respondents/Appellants,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Diane House and Steven Boulley, and Chief Judge Marianne Higgins presiding.</text>
   <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>

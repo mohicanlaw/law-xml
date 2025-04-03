@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2023 SMTCA 1.pdf">2023 SMTCA 1</citation>
       <citation type="opinion" url="./2023-AP-0001.pdf">Case No. 2023-AP-0001</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Gregory Miller and Scott R. Vele</name>
+        <designation>Plaintiffs/Appellees</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community, et. al</name>
+        <designation>Defendants/Appellants</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Gregory Miller and Scott R. Vele,</span>
-            <span class="right">Plaintiffs/Appellees,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community, et. al,</span>
-            <span class="right">Defendants/Appellants,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="INTRODUCTION">
     <num>I.</num>
     <heading>INTRODUCTION</heading>

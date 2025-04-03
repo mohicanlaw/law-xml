@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2010 SMTCA 4.pdf">2010 SMTCA 4</citation>
       <citation type="opinion" url="./2009-FA-0021.pdf">Case No. 2009-FA-0021</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Petitioner</designation>
+      </party>
+      <party>
+        <name>Bert W. Davids</name>
+        <designation>Defendant</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community,</span>
-            <span class="right">Petitioner,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Bert W. Davids,</span>
-            <span class="right">Defendant,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <text>The defendant, Bert W. Davids (Davids) was issued an ordinance violation citation pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.19">Section 21.19 of the Stockbridge-Munsee Code</cite> which in part prohibits use of motor vehicles ...on logging roads during spring break up. After trial the court issued the following order.</text>
   <container name="Order">
     <heading>Order</heading>

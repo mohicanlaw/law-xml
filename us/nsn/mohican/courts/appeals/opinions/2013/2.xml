@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2013 SMTCA 2.pdf">2013 SMTCA 2</citation>
       <citation type="opinion" url="./AP-2012-CV-0002.pdf">Case No. AP-2012-CV-0002</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Kimberly Vele</name>
+        <designation>Appellee-Plaintiff</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community et. al.</name>
+        <designation>Appellant-Respondent</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Kimberly Vele,</span>
-            <span class="right">Appellee-Plaintiff,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community et. al.,</span>
-            <span class="right">Appellant-Respondent,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <text>This case originated as the result of action taken at a meeting of the Tribal Council, attended by tribal member, Kimberly M. Vele, when the Tribal Council voted against hiring her to the position of lead attorney for the tribe. Ms. Vele, filed suit in Tribal Court against the tribe, claiming that the vote to deny her employment as the lead attorney violated the Tribe's Employment Preference Law. The Tribal Court held that the "two council members should have recused themselves" nullified both votes, and ordered the tribe to appoint Ms. Vele to the position of lead attorney.</text>

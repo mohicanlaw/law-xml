@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2019 SMTCA 2.pdf">2019 SMTCA 2</citation>
       <citation type="opinion" url="./2018-AP-0003.pdf">Case No. 2018-AP-0003</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Adam Hoffman and Beau Miller</name>
+        <designation>Appellants</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Human Resources Department and Stockbridge-Munsee Community Tribal Council</name>
+        <designation>Appellees</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Adam Hoffman and Beau Miller,</span>
-            <span class="right">Appellants,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Human Resources Department and Stockbridge-Munsee Community Tribal Council,</span>
-            <span class="right">Appellees,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="SUMMARY">
     <num>I.</num>
     <heading>SUMMARY</heading>

@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2012 SMTCA 2.pdf">2012 SMTCA 2</citation>
       <citation type="opinion" url="./AP-2008-AA-0003.pdf">Case No. AP-2008-AA-0003</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Kylee Dodge</name>
+        <designation>Petitioner-Appellee</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Respondent-Appellant</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Kylee Dodge,</span>
-            <span class="right">Petitioner-Appellee,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community,</span>
-            <span class="right">Respondent-Appellant,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="Opinion">
     <heading>Opinion</heading>
     <text>The Appellant, the Stockbridge-Munsee Community, through its undersigned attorney, files this Notice of Appeal in relation to the Order Clarifying Issue of Paid Time Off (PTO) issued November 16, 2012 by the Trial Court in the above-captioned matter.</text>

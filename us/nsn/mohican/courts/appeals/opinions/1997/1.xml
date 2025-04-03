@@ -8,28 +8,17 @@
       <citation type="reporter" url="./1997 SMTCA 1.pdf">1997 SMTCA 1</citation>
       <citation type="opinion" url="./97-AA-003.pdf">Case No. 97-AA-003</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Petitioner</designation>
+      </party>
+      <party>
+        <name>Phyllis Vlasak</name>
+        <designation>Respondent</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community,</span>
-            <span class="right">Petitioner,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Phyllis Vlasak,</span>
-            <span class="right">Respondent,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="Jurisdictional Statement">
     <heading>Jurisdictional Statement</heading>
     <text>Petitioner, Stockbridge-Munsee Community, a federally recognized Tribe, appeals from a Stockbridge-Munsee Tribal Court decision on an Administrative Appeal of an Employment Mediation Pane's (EMP) position that they could not reach a decision under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53, the Tribe's Employee Rights Ordinance</cite>.</text>

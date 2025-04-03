@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2002 SMTCA 2.pdf">2002 SMTCA 2</citation>
       <citation type="opinion" url="./01-AA-001.pdf">Case No. 01-AA-001</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Lillian Wheelock</name>
+        <designation>Appellant</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Appellee</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Lillian Wheelock,</span>
-            <span class="right">Appellant,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community,</span>
-            <span class="right">Appellee,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="Jurisdictional Statement">
     <heading>Jurisdictional Statement</heading>
     <text>Appellant, appeals from a Mohican Nation, Stockbridge-Munsee Band Tribal Court decision which upheld her termination from employment with the Stockbridge-Munsee Band of Mohicans Indian Tribe (hereafter called Tribe).</text>

@@ -8,28 +8,17 @@
       <citation type="reporter" url="./2021 SMTCA 4.pdf">2021 SMTCA 4</citation>
       <citation type="opinion" url="./2021-AP-0001.pdf">Case No. 2021-AP-0001</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Gregory Miller and Scott R. Vele</name>
+        <designation>Plaintiffs/Appellants</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community</name>
+        <designation>Respondent/Appellee</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Gregory Miller and Scott R. Vele,</span>
-            <span class="right">Plaintiffs/Appellants,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community,</span>
-            <span class="right">Respondent/Appellee,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
   <container name="RELEVANT FACTS">
     <heading>RELEVANT FACTS</heading>
     <text>Appellants, Gregory Miller and Scott R. Vele, sued the Stockbridge-Munsee Community, ("Community"), on March 29, 2021 over tribal membership issues in Case Number 2021-CV- 0009. On April 19, 2021, the Community filed a motion to dismiss this case on the grounds of lack of subject matter jurisdiction and tribal sovereign immunity. No response to this motion appears in the appellate record.</text>
