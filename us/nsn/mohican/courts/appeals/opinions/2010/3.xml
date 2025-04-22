@@ -43,10 +43,10 @@
   </container>
   <container name="STATUTE">
     <heading>STATUTE</heading>
+    <text>
+      <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">Section 53.45 Statute of Limitations</cite>
+    </text>
     <include>
-      <text>
-        <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">Section 53.45 Statute of Limitations</cite>
-      </text>
       <text>The employee must initiate the internal grievance process or court action, whichever applies, within 30 calendar days of the event or events that gave rise to the employee's claim. In cases where the employee initiates the internal grievance process, the employee must initiate the court action within 30 calendar days of receiving the final written communication of the internal grievance process.</text>
       <text>The Community believed the filing in Tribal Court occurred 57 days after the date the final written communication of the internal grievance process was given and filed a motion to dismiss on statute of limitations and sovereign immunity grounds with Tribal Court. That motion was subsequently denied which brought this interlocutory appeal.</text>
     </include>
@@ -60,9 +60,9 @@
     <text>Employees of the Community without legal training or representation are entitled to a fair shake in the grievance process. It is clear Dodge believed Human Resources was a department that dealt with employee problems and discipline. As noted the termination letter went to Human Resources. It is only reasonable to expect Dodge to go to Human Resources with his request. In addition the termination letter directed Dodge to Human Resources and provided their telephone number if he needed documents. As noted during oral arguments had Human Resources advised Dodge that the EMP was no longer available this lengthy appeal would not have been necessary.</text>
     <text>We are also mindful that tribal court precedent exists that suggests this court take a strict view of the 30 day statute of limitations imposed by the Community. As stated in <cite doc="97-AA-004" path="6">Stockbridge-Munsee Community v. Joseph Miller "if the appeal is not timely filed, under no circumstances will it be heard. 'Case No. 97-AA-004, page 6</cite>. However, the facts of previous cases are much different than the facts here. In the Joseph Miller case Mr. Miller was specifically told who he needed to file a grievance with and the time limit to do so. Miller acknowledged he did not follow that procedure. Here Dodge was simply advised he needed to follow the Employee Handbook which is what Dodge did in requesting an EMP with Human Services.</text>
     <text>In the Miller case as well the court also noted Miller provided no excusable neglect for his failure. We would also find for the above reasons that relying on the Handbook in requesting an EMP as it provided although no longer in existence is excusable neglect to allow this appeal to be heard on its merits. 154 Words and Phrases (perm. Ed.), 225 define excusable neglect as neglect which might have been the act of a reasonably prudent person under the same circumstances. That means as well that excusable neglect is not the same as neglect, carelessness, or inattentiveness. It means in essence where a person is unexpectedly placed in a situation to his detriment without fault or negligence of his own and against which ordinary prudence could not have guarded is excusable neglect. Dodge was placed in this predicament through no fault of his own. He followed procedure by requesting an EMP and was not informed the procedure was no longer available to him. Given the Community's stated interest in protecting employees rights it seems logical the tribe would prefer hearing a termination appeal on its merits rather than prohibiting the same on procedural grounds under these facts.</text>
-    <text>SO ORDERED.</text>
   </container>
   <procedural-data>
+    <text>SO ORDERED.</text>
     <text>
       <strong>BY THE COURT</strong>
     </text>
