@@ -19,8 +19,16 @@
       </party>
     </parties>
     <appeal_panel_judges>Smith, C.J., Lochen, Justice, Sharfstein, Special Justice</appeal_panel_judges>
-    <opinion_author>Sharfstein, Sp. J. <fn path="|footnotes|1">1</fn></opinion_author>
+    <opinion_author>Sharfstein, Sp. J.</opinion_author>
   </meta>
+  <text>
+    <strong>
+      <em>Before</em>
+    </strong>
+    <strong>: Smith, C.J., Lochen, Justice, Sharfstein, Special Justice</strong>
+    <fn path="|footnotes|1">1</fn>
+  </text>
+  <text><strong><em>Opinion By: </em></strong>Sharfstein, Sp. J.</text>
   <container name="INTRODUCTION">
     <num>I.</num>
     <heading>INTRODUCTION</heading>
