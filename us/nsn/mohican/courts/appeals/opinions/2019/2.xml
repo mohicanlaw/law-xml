@@ -18,7 +18,11 @@
         <designation>Appellees</designation>
       </party>
     </parties>
+    <appeal_panel_judges>Smith, Chief Justice, Lochen and Bichler, Justices</appeal_panel_judges>
+    <opinion_author>Bichler, J.</opinion_author>
   </meta>
+  <text><strong><em>Before</em></strong><strong>: Smith, Chief Justice, Lochen and Bichler, Justices</strong></text>
+  <text><strong><em>Opinion By: </em></strong>Bichler, J.</text>
   <container name="SUMMARY">
     <num>I.</num>
     <heading>SUMMARY</heading>

@@ -58,13 +58,20 @@
     <heading>Jurisdiction</heading>
     <para>
       <num>&#182;7</num>
-      <text><cite doc="SMRP" path="§23|(I)" proof="needed">Section 23 (I) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> grants this Court the jurisdiction to review the case at hand. The Court, having been granted jurisdiction to review the final judgment of the Trial Court, now proceeds to review that final judgment and issue its opinion.</text>
+      <text><cite doc="SMRP" path="§23" proof="needed">Section 23 of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> grants this Court the jurisdiction to review the case at hand. The Court, having been granted jurisdiction to review the final judgment of the Trial Court, now proceeds to review that final judgment and issue its opinion.</text>
+    </para>
+  </container>
+  <container name="Scope of Review">
+    <heading>Scope of Review</heading>
+    <para>
+      <num>&#182;8</num>
+      <text><cite doc="SMRP" path="§23|(I)" proof="needed">Section 23 (I) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> limits the Court's review stating. "The Court may only hear appeals concerning matters of law."</text>
     </para>
   </container>
   <container name="Summary of Issues">
     <heading>Summary of Issues</heading>
     <para>
-      <num>&#182;8</num>
+      <num>&#182;9</num>
       <text>The Appellant raises four issues on appeal.</text>
       <para>
         <num>1.</num>
@@ -87,7 +94,7 @@
   <container name="Pertinent Facts">
     <heading>Pertinent Facts</heading>
     <para>
-      <num>&#182;9</num>
+      <num>&#182;10</num>
       <text>The Trial Court issued a summary judgment decision in this case so the facts found by the Trial Court were determined from the pleadings and not from oral testimony. Therefore, this Court must rely on those same facts found in the pleadings and determine if there was any error concerning the application of law. In the Respondent's Brief and Motion for Summary Judgment filed with the Trial Court on August 28, 2003, the Respondent sets forth the following facts.</text>
       <include>
         <para>
@@ -121,11 +128,11 @@
       </include>
     </para>
     <para>
-      <num>&#182;10</num>
+      <num>&#182;11</num>
       <text>Respondent's Br. &amp; Mot. for Summ. J. at page 6 - 7.</text>
     </para>
     <para>
-      <num>&#182;11</num>
+      <num>&#182;12</num>
       <text>On September 13, 2003, the Petitioner filed an Affidavit in Opposition to Motion for Summary Judgment. In the Affidavit, Mr. Pecore provides the following information:</text>
       <include>
         <para>
@@ -179,11 +186,11 @@
       </include>
     </para>
     <para>
-      <num>&#182;12</num>
+      <num>&#182;13</num>
       <text>Aff. in Opp'n to Motion for Summ. J. at page 1-2<fn path="|footnotes|3">3</fn>.</text>
     </para>
     <para>
-      <num>&#182;13</num>
+      <num>&#182;14</num>
       <text>The Petitioner included the referenced exhibits with the Affidavit in Opposition to Motion for Summary Judgment.</text>
     </para>
   </container>
@@ -195,7 +202,7 @@
         <em>Did Mr Pecore's Affidavit in Opposition to Motion for Summary Judgment present an issue of material fact that requires a trial in this matter?</em>
       </heading>
       <para>
-        <num>&#182;14</num>
+        <num>&#182;15</num>
         <text>This Court has carefully reviewed the documents filed in this case and finds that the Affidavit in Opposition for Summary Judgment did not contain any new material facts that would have created a disputed issue. The only hint of a new fact was the assertion that Mr. Pecore was hired as a consultant, between October 15, 2001 and January 3, 2002 at the Pine Hills Golf Course, to restore the greens. However, the Appellant does not affirmatively provide any foundation as to how this assertion creates a new material fact that needs to be tried. The Trial Court did not err in making the determination that there were no disputed issues of material fact. Based on this Court's review of the filings, we agree with the Trial Court that the only dispute concerned a matter of law regarding the proper application of the hiring preference policy Summary judgment was appropriate in this case.</text>
       </para>
     </container>
@@ -205,7 +212,7 @@
         <em>Did the Tribe improperly apply the job description in its decision not to hire Mr Pecore?</em>
       </heading>
       <para>
-        <num>&#182;15</num>
+        <num>&#182;16</num>
         <text>The Trial Court found that the Tribe did not err in its decision to decline hiring the Appellant. This Court agrees with the analysis of the Trial Court in that the qualifications for a job position must be "job related" and that the position applied for as Superintendent would include responsibilities such as supervising and training of staff, budget management, etc., and that <em>"past management and oversight experience would be essential indicators of future ability to perform the supervisory functions required for the position."</em> Trial Court Decision at 5 (emphasis added). The Trial Court found that "there seems little doubt that the basic qualifications of the position were reasonably related to the job and not intended to be a barrier to employment." Id. at 5. The Appellant does not dispute the fact that he was criminally convicted and fired for misconduct from this same position previously. Therefore, this Court must agree with the Trial Court's determination that the Tribe did not err when it included prior work history as a qualification for this position.</text>
       </para>
     </container>
@@ -215,7 +222,7 @@
         <em>Did the Tribe base its decision not to hire the Appellant on relevant and established facts?</em>
       </heading>
       <para>
-        <num>&#182;16</num>
+        <num>&#182;17</num>
         <text>The Trial Court found, and this Court agrees, that there are no disputed facts in this case. Although the Appellant could have appealed his prior termination for misconduct, he did not. Also, the Appellant could have disputed that his prior termination should not be part of the job qualifications that the Tribe incorporates in its hiring practices, but he did not. Therefore the Tribe did not err, and the Trial Court's findings on this issue are correct.</text>
       </para>
     </container>
@@ -225,7 +232,7 @@
         <em>Did the Trial Court err when deciding that the Appellant did not meet the qualifications of the posted position?</em>
       </heading>
       <para>
-        <num>&#182;17</num>
+        <num>&#182;18</num>
         <text>The Tribe has set forth the purpose for its hiring preference policy as follows:</text>
         <include>
           <text>
@@ -240,11 +247,11 @@
         </include>
       </para>
       <para>
-        <num>&#182;18</num>
+        <num>&#182;19</num>
         <text>Employee Preference Policy Ordinance, Ch. 54.</text>
       </para>
       <para>
-        <num>&#182;19</num>
+        <num>&#182;20</num>
         <text>In reviewing the purpose of the Employee Preference Policy Ordinance, as referenced in the Trial Court's decision, this Court finds that although the main thrust is to provide optimur employment for Tribal Members, it is also intended to assure that the Tribe receives the maximum benefits generated by its entities and enterprises. This would indicate that the Tribe reserves discretion to create job descriptions that assure that the entire community benefits from having qualified employees. Therefore, the Tribe did not improperly act in creating the job description for the position of Superintendent of the Pine Hills Golf Course, which included the qualification that applicants "[m]ust have demonstrated ability to maintain satisfactory working record in any prior or current employment." Position Description Qualifications at 16. Furthermore, the Tribe did not improperly act in considering the Appellant's past work history when making its decision not to hire him for the posted position. There was no error in the Trial Court's decision.</text>
       </para>
     </container>
@@ -252,7 +259,7 @@
   <container name="Conclusion">
     <heading>Conclusion</heading>
     <para>
-      <num>&#182;20</num>
+      <num>&#182;21</num>
       <text>This Court affirms the Trial Court's decision issued on February 6, 2005.</text>
     </para>
   </container>

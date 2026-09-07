@@ -18,7 +18,11 @@
         <designation>Respondent/Appellee</designation>
       </party>
     </parties>
+    <appeal_panel_judges>Smith, Chief Justice; Bichler &amp; Lochen, Justices</appeal_panel_judges>
+    <opinion_author>Smith, C.J.</opinion_author>
   </meta>
+  <text><strong><em>Before</em></strong><strong>: Smith, Chief Justice; Bichler &amp; Lochen, Justices</strong></text>
+  <text><strong><em>Order by: </em></strong>Smith, C.J.</text>
   <container name="RELEVANT FACTS">
     <heading>RELEVANT FACTS</heading>
     <para>

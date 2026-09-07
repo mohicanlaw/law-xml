@@ -18,7 +18,11 @@
         <designation>Defendant-Appellant</designation>
       </party>
     </parties>
+    <appeal_panel_judges>Smith, Chief Justice; Bichler and Lochen, Justices</appeal_panel_judges>
+    <opinion_author>Smith, C.J.</opinion_author>
   </meta>
+  <text><strong><em>Before</em></strong><strong>: Smith, Chief Justice; Bichler and Lochen, Justices</strong></text>
+  <text><strong><em>Opinion by: </em></strong>Smith, C.J.</text>
   <container name="ORDER DISMISSING APPEAL">
     <heading>ORDER DISMISSING APPEAL</heading>
     <para>
@@ -37,7 +41,7 @@
       <text>The Stockbridge-Munsee Tribal Court, in response to COVID-19 Pandemic, established Civil Procedure Rules for e-filing pleadings effective June 15, 2020. These rules are found on the home webpage of the Stockbridge-Munsee Tribal Court. <strong><em>S-M e-Filing Rule 6(a)</em></strong>, in relevant part, states the following:</text>
       <include>
         <text>
-          <strong>If a party fails to pay the applicable filing fee, the matter will be deemed not filed and no further action taken.</strong>
+          <strong>If a party fails to pay the applicable filing fee, the matter will be deemed <em>not filed</em> and no further action taken.</strong>
         </text>
       </include>
     </para>

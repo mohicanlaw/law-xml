@@ -18,7 +18,11 @@
         <designation>Defendants/Appellants</designation>
       </party>
     </parties>
+    <appeal_panel_judges>[Smith, Chief Justice, Lochen, Justice, and Straniere, Special Justice]</appeal_panel_judges>
+    <opinion_author>Lochen, J.</opinion_author>
   </meta>
+  <text><strong><em>Before</em></strong><strong>: [Smith, Chief Justice, Lochen, Justice, and Straniere</strong><fn path="|footnotes|1">1</fn><strong>, Special Justice]</strong></text>
+  <text><strong><em>Opinion By: </em></strong>Lochen, J.</text>
   <container name="INTRODUCTION">
     <num>I.</num>
     <heading>INTRODUCTION</heading>
@@ -159,6 +163,10 @@
   <footnotes>
     <footnote>
       <num>1</num>
+      <text>The Honorable Philip S. Straniere, a retired New York judge, sitting by designation due to the recusal of Justice Howard Bichler.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
       <text>"It is time to get to the merits of the case. Another Court may well find, after full discovery and perhaps witness testimony, the facts are not proven or that as a matter of law the Court lacks jurisdiction. But it is time for the Defendants to Answer the Complaint and discovery to proceed." <cite doc="UNKNOWN" path="5"><em>Redwine Decision and Opinion, October 6, 2021, p. 5.</em></cite></text>
     </footnote>
   </footnotes>

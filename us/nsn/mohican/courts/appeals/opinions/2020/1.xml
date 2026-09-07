@@ -18,7 +18,11 @@
         <designation>Defendant/Appellant</designation>
       </party>
     </parties>
+    <appeal_panel_judges>Honorable Eric M. Lochen, Chief Justice</appeal_panel_judges>
+    <opinion_author>Lochen, CJ.</opinion_author>
   </meta>
+  <text><strong><em>Before</em></strong><strong>: Honorable Eric M. Lochen, Chief Justice</strong></text>
+  <text><strong><em>Opinion By: </em></strong>Lochen, CJ.</text>
   <container name="SUMMARY">
     <num>I.</num>
     <heading>SUMMARY</heading>
