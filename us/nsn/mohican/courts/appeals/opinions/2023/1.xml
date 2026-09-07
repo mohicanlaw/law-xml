@@ -18,7 +18,11 @@
         <designation>Defendants/Appellants</designation>
       </party>
     </parties>
+    <appeal_panel_judges>Lochen, Chief Justice, Smith, Justice and Anderson, Special Justice</appeal_panel_judges>
+    <opinion_author>Anderson, SJ.</opinion_author>
   </meta>
+  <text><strong><em>Before</em></strong><strong>: Lochen, Chief Justice, Smith, Justice and Anderson, Special Justice</strong></text>
+  <text><strong><em>Opinion By: </em></strong>Anderson, SJ.</text>
   <container name="INTRODUCTION">
     <num>I.</num>
     <heading>INTRODUCTION</heading>
