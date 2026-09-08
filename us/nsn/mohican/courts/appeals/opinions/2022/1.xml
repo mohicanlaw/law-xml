@@ -21,7 +21,9 @@
     <appeal_panel_judges>[Smith, Chief Justice, Lochen, Justice, and Straniere, Special Justice]</appeal_panel_judges>
     <opinion_author>Lochen, J.</opinion_author>
   </meta>
-  <text><strong><em>Before</em></strong><strong>: [Smith, Chief Justice, Lochen, Justice, and Straniere</strong><fn path="|footnotes|1">1</fn><strong>, Special Justice]</strong></text>
+  <container name="OPINION" class="center">
+    <heading>OPINION</heading>
+    <text><strong><em>Before</em></strong><strong>: [Smith, Chief Justice, Lochen, Justice, and Straniere</strong><fn path="|footnotes|1">1</fn><strong>, Special Justice]</strong></text>
   <text><strong><em>Opinion By: </em></strong>Lochen, J.</text>
   <container name="INTRODUCTION">
     <num>I.</num>
@@ -160,6 +162,7 @@
       </strong>
     </text>
   </procedural-data>
+  </container>
   <footnotes>
     <footnote>
       <num>1</num>

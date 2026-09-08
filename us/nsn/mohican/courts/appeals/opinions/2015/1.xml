@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="MEMORANDUM OPINION AND ORDER" class="center">
+    <heading>MEMORANDUM OPINION AND ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>Interlocutory Appeal from an order of the Stockbridge-Munsee Tribal Court (SMTC); Honorable Candace Des Armo Coury. <em>Reversed.</em></text>
   </para>
@@ -137,6 +139,7 @@
     <text>Judge Richard Ackley - Pro Tempore</text>
     <text>Chief Judge Marianne Higgins</text>
   </procedural-data>
+  </container>
   <footnotes>
     <footnote>
       <num>1</num>

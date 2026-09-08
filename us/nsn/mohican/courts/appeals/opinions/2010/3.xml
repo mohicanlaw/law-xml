@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="DECISION AND ORDER" class="center">
+    <heading>DECISION AND ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>This is an Interlocutory Appeal. The Stockbridge-Munsee Human Resources has asked this court to reverse the decision of the Stockbridge-Munsee Tribal Court the Honorable Robert Miller presiding that denied their motion to dismiss on sovereign immunity and statute of limitation grounds. Because we believe the Tribal Court was correct in denying the motion we affirm the order and remand the case for full merit review.</text>
   </para>
@@ -107,4 +109,5 @@
     <text>Honorable Leland Wigg-Ninham</text>
     <text>Honorable James B. Mohr</text>
   </procedural-data>
-</document>
+</container>
+  </document>

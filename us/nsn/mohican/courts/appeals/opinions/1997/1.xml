@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <container name="Jurisdictional Statement">
+  <container name="OPINION AND ORDER" class="center">
+    <heading>OPINION AND ORDER</heading>
+    <container name="Jurisdictional Statement">
     <heading>Jurisdictional Statement</heading>
     <para>
       <num>&#182;1</num>
@@ -169,4 +171,5 @@
     <text>Honorable Eugene White-Fish, Associate Judge</text>
     <text>Stockbridge-Munsee Tribal Court of Appeals</text>
   </procedural-data>
-</document>
+</container>
+  </document>

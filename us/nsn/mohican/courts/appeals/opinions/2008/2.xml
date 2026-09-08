@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="DECISION AND ORDER ON MOTION FOR RECONSIDERATION" class="center">
+    <heading>DECISION AND ORDER ON MOTION FOR RECONSIDERATION</heading>
+    <para>
     <num>&#182;1</num>
     <text>On July 21, 2008, this court dismissed the appeal of the Appellants for failure to file a timely appeal. On August 1, 2008, the 'Appellants filed a Motion to Reconsider the court's decision.</text>
   </para>
@@ -41,4 +43,5 @@
     <text>Leland Wigg-Ninham, Judge Pro Tem</text>
     <text>Robert Kittecon, Judge Pro Tem</text>
   </procedural-data>
-</document>
+</container>
+  </document>

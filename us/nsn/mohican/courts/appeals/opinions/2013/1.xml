@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="JUDGMENT REMANDING &amp; STAYING WRIT OF EXECUTION AND RESTITUTION" class="center">
+    <heading>JUDGMENT REMANDING &amp;<br/>STAYING WRIT OF EXECUTION AND RESTITUTION</heading>
+    <para>
     <num>&#182;1</num>
     <text>Under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)|(3)">TRIBAL COURT CODE, §1.6(L)(3)</cite>, the principal grounds for appeal are that the Trial Court made a serious error of fact or law and/or there was an abuse of discretion. The Tribal Court of Appeals (hereinafter the Appellate Court) contends that a serious error of law occurred. Specifically, the Court held a hearing on January 4, 2013, and it dealt with the eviction of the defendant/appellant. The defendant/appellant requested a continuance in order to obtain counsel; however, the Court denied a continuance.</text>
   </para>
@@ -44,6 +46,7 @@
     <text>Honorable Richard Ackley, Judge Pro Tempore</text>
     <text>Honorable Candace Coury, Judge Pro Tempore</text>
   </procedural-data>
+  </container>
   <footnotes>
     <footnote>
       <num>1</num>

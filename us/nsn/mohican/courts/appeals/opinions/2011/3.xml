@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="ORDER" class="center">
+    <heading>ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>The above-entitled action having been heard by the Stockbridge-Munsee Appellant Court by Pro tempore Honorable Garold Smith, Honorable Candace Des Armo Coury and Pro tempore, Honorable Donald Gurnoe. This Court affirmed the lower courts decision and order by the Stockbridge-Munsee Court in Case No. 2010-AA-0004.</text>
   </para>
@@ -62,4 +64,5 @@
     <text>Pro tempore, Honorable Garold Smith</text>
     <text>Pro tempore, Honorable Donald Gurnoe</text>
   </procedural-data>
-</document>
+</container>
+  </document>

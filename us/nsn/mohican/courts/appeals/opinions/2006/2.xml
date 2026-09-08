@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <container name="PROCEDURAL BACKGROUND">
+  <container name="OPINION AND ORDER" class="center">
+    <heading>OPINION AND ORDER</heading>
+    <container name="PROCEDURAL BACKGROUND">
     <heading>PROCEDURAL BACKGROUND</heading>
     <para>
       <num>&#182;1</num>
@@ -103,4 +105,5 @@
     <text>Honorable Robert Kittecon</text>
     <text>Justice Pro Tempore</text>
   </procedural-data>
-</document>
+</container>
+  </document>

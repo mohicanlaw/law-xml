@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="CONSOLIDATED DISMISSAL ORDER" class="center">
+    <heading>CONSOLIDATED<br/>DISMISSAL ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>This case comes before the Appellate Court, Honorable Mary Adams (Pro tem), Honorable James Mohr (Pro tem), and Honorable Leland Wigg-Ninham (Pro tem) presiding.</text>
   </para>
@@ -47,4 +49,5 @@
     <text>On Behalf of Pro Tem Judges,</text>
     <text>Honorable, Mary Adams, (Pro tem)</text>
   </procedural-data>
-</document>
+</container>
+  </document>

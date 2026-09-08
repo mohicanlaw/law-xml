@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="MEMORANDUM OPINION AND ORDER" class="center">
+    <heading>MEMORANDUM OPINION AND ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Diane House and Jeryl L. Perenich, and Chief Judge Marianne Higgins presiding.</text>
   </para>
@@ -139,4 +141,5 @@
     <text>Jeryl L. Perenich, Appellate Court Judge Pro Tempore</text>
     <text>Marianne Higgins, Chief Appellate Court Judge</text>
   </procedural-data>
-</document>
+</container>
+  </document>

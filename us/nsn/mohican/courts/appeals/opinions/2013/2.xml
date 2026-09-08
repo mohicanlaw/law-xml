@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <container name="INTRODUCTION">
+  <container name="OPINION" class="center">
+    <heading>OPINION</heading>
+    <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <para>
       <num>&#182;1</num>
@@ -182,4 +184,5 @@
     <text>Honorable Alton Sonny Smart</text>
     <text>Bad River Tribal Trial Court</text>
   </procedural-data>
-</document>
+</container>
+  </document>

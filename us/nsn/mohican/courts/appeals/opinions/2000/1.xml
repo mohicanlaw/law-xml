@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <container name="FACTS">
+  <container name="OPINION AND ORDER" class="center">
+    <heading>OPINION AND ORDER</heading>
+    <container name="FACTS">
     <heading>FACTS</heading>
     <para>
       <num>&#182;1</num>
@@ -61,4 +63,5 @@
     <text>Honorable Joseph Martin</text>
     <text>Stockbridge-Munsee Appellate Court Judge Pro Tem</text>
   </procedural-data>
-</document>
+</container>
+  </document>
