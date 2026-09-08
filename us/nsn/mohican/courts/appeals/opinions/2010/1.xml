@@ -74,7 +74,8 @@
     <text>Pro tempore, Honorable Robert Christjohn</text>
     <text>Honorable Marianne Higgins</text>
   </procedural-data>
-  <container name="CONCURRENT OPINION">
+</container>
+<container name="CONCURRENT OPINION" class="center">
     <heading>CONCURRENT OPINION</heading>
     <para>
       <num>&#182;9</num>
@@ -145,5 +146,5 @@
       </para>
     </container>
   </container>
-</container>
+
   </document>
