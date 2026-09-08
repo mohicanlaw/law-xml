@@ -60,14 +60,14 @@
     <heading>Jurisdiction</heading>
     <para>
       <num>&#182;7</num>
-      <text><cite doc="SMRP" path="§23" proof="needed">Section 23 of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> grants this Court the jurisdiction to review the case at hand. The Court, having been granted jurisdiction to review the final judgment of the Trial Court, now proceeds to review that final judgment and issue its opinion.</text>
+      <text><cite path="§23" proof="needed">Section 23 of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> grants this Court the jurisdiction to review the case at hand. The Court, having been granted jurisdiction to review the final judgment of the Trial Court, now proceeds to review that final judgment and issue its opinion.</text>
     </para>
   </container>
   <container name="Scope of Review">
     <heading>Scope of Review</heading>
     <para>
       <num>&#182;8</num>
-      <text><cite doc="SMRP" path="§23|(I)" proof="needed">Section 23 (I) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> limits the Court's review stating. "The Court may only hear appeals concerning matters of law."</text>
+      <text><cite path="§23|(I)" proof="needed">Section 23 (I) of the Stockbridge-Munsee Tribal Court Rules of Procedure</cite> limits the Court's review stating. "The Court may only hear appeals concerning matters of law."</text>
     </para>
   </container>
   <container name="Summary of Issues">
@@ -280,7 +280,7 @@
     </footnote>
     <footnote>
       <num>2</num>
-      <text><cite doc="" path="§23|(K)" proof="needed">Stockbridge-Munsee Tribal Court Rules of Procedure, § 23 (K)</cite> states: "At the discretion of the appellate body, to aid it in reaching a wise decision or to avoid injustice to the parties, an oral hearing on the appeal of matters of law may be ordered."</text>
+      <text><cite path="§23|(K)" proof="needed">Stockbridge-Munsee Tribal Court Rules of Procedure, § 23 (K)</cite> states: "At the discretion of the appellate body, to aid it in reaching a wise decision or to avoid injustice to the parties, an oral hearing on the appeal of matters of law may be ordered."</text>
     </footnote>
     <footnote>
       <num>3</num>
