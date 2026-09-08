@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="MEMORANDUM DECISION AND ORDER" class="center">
+    <heading>MEMORANDUM DECISION AND ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Layatalati Hill, Diane House, and John Powless III presiding.</text>
   </para>
@@ -106,4 +108,5 @@
     <text>Diana House, Appellate Court Judge Pro Tempore</text>
     <text>John Powless III, Appellate Court Judge Pro Tempore</text>
   </procedural-data>
-</document>
+</container>
+  </document>

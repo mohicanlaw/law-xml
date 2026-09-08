@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <container name="INTRODUCTION">
+  <container name="OPINION AND ORDER" class="center">
+    <heading>OPINION AND ORDER</heading>
+    <container name="INTRODUCTION">
     <heading>INTRODUCTION</heading>
     <para>
       <num>&#182;1</num>
@@ -90,4 +92,5 @@
     <text>Ernest St. Germain, Pro tem</text>
     <text>Robert Kittecon, Judge Pro tem</text>
   </procedural-data>
-</document>
+</container>
+  </document>

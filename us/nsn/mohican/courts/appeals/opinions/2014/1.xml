@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="DECISION AND ORDER" class="center">
+    <heading>DECISION AND ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>This case arises out of Appellant's application for employment as the Executive Director of IT offered by the Stockbridge-Munsee Community. Appellant Jason Hietpas alleges the interview panel for the IT Executive Director position failed to apply <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.02">Chapter 54 of the Stockbridge-Munsee Communities Ordinances</cite>.</text>
   </para>
@@ -55,4 +57,5 @@
       <strong>Stockbridge-Munsee Tribal Court Judge</strong>
     </text>
   </procedural-data>
-</document>
+</container>
+  </document>

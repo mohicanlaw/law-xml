@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="DECISION AND ORDER" class="center">
+    <heading>DECISION AND ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>This matter is before the Stockbridge-Munsee Tribal Court, Court of Appeals, on appeal from a ruling of dismissal issued by the Honorable Robert Miller based on a finding that the court lacked subject matter jurisdiction to hear this matter.</text>
   </para>
@@ -71,4 +73,5 @@
     <text>Robert Kittecon, Judge Pro Tem</text>
     <text>Leland Ninham, Judge Pro Tem</text>
   </procedural-data>
-</document>
+</container>
+  </document>

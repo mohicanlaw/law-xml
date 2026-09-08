@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="APPELLATE DECISION (WTJA)" class="center">
+    <heading>APPELLATE DECISION (WTJA)</heading>
+    <para>
     <num>&#182;1</num>
     <text>The defendant, Bert W. Davids (Davids) was issued an ordinance violation citation pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.19">Section 21.19 of the Stockbridge-Munsee Code</cite> which in part prohibits use of motor vehicles ...on logging roads during spring break up. After trial the court issued the following order.</text>
   </para>
@@ -86,4 +88,5 @@
     <text>Honorable, Leland Ninham</text>
     <text>Honorable, James B. Mohr</text>
   </procedural-data>
-</document>
+</container>
+  </document>

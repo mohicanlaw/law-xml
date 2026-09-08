@@ -21,7 +21,9 @@
     <appeal_panel_judges>Smith, Chief Justice, Lochen and Bichler, Justices</appeal_panel_judges>
     <opinion_author>Bichler, J.</opinion_author>
   </meta>
-  <text><strong><em>Before</em></strong><strong>: Smith, Chief Justice, Lochen and Bichler, Justices</strong></text>
+  <container name="OPINION" class="center">
+    <heading>OPINION</heading>
+    <text><strong><em>Before</em></strong><strong>: Smith, Chief Justice, Lochen and Bichler, Justices</strong></text>
   <text><strong><em>Opinion By: </em></strong>Bichler, J.</text>
   <container name="SUMMARY">
     <num>I.</num>
@@ -242,4 +244,5 @@
       <em>Smith, C.J and Lochen J. Concur</em>
     </text>
   </procedural-data>
-</document>
+</container>
+  </document>

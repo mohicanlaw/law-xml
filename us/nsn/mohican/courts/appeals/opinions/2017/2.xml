@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="DECISION AND ORDER OF DISMISSAL" class="center">
+    <heading>DECISION AND ORDER OF DISMISSAL</heading>
+    <para>
     <num>&#182;1</num>
     <text>This case has come before the Stockbridge-Munsee Court of Appeals Judges Pro Tempore Diane House and Eugene White-Fish, and Chief Judge Marianne Higgins presiding.</text>
   </para>
@@ -99,6 +101,7 @@
     <text>Eugene White-Fish, Appellate Court Judge Pro Tempore</text>
     <text>Marianne Higgins, Stockbridge-Munsee Community Chief Judge</text>
   </procedural-data>
+  </container>
   <footnotes>
     <footnote>
       <num>1</num>

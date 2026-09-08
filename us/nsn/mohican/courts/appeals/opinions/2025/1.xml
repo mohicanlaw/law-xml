@@ -21,7 +21,9 @@
     <appeal_panel_judges>Smith, C.J., Lochen, Justice, Sharfstein, Special Justice</appeal_panel_judges>
     <opinion_author>Sharfstein, Sp. J.</opinion_author>
   </meta>
-  <text>
+  <container name="OPINION" class="center">
+    <heading>OPINION</heading>
+    <text>
     <strong>
       <em>Before</em>
     </strong>
@@ -99,6 +101,7 @@
       </strong>
     </text>
   </procedural-data>
+  </container>
   <footnotes>
     <footnote>
       <num>1</num>

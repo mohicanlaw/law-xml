@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="DENIAL OF APPEAL" class="center">
+    <heading>DENIAL OF APPEAL</heading>
+    <para>
     <num>&#182;1</num>
     <text>Presiding Stockbridge-Munsee Court of Appeals Judges include the Honorable Stanley R. Webster, Panel Chair, of the Oneida Tribal Judicial System-Appellate Court, Honorable Richard Ackley of the Bad River Tribal Court, and Honorable Candace Des Armo Coury of the Stockbridge-Munsee Tribal Court.</text>
   </para>
@@ -147,4 +149,5 @@
     <text>Honorable Richard Ackley</text>
     <text>Honorable Candace Des Armo Coury</text>
   </procedural-data>
-</document>
+</container>
+  </document>

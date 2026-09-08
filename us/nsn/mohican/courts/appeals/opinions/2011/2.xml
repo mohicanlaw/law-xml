@@ -19,7 +19,9 @@
       </party>
     </parties>
   </meta>
-  <para>
+  <container name="DECISION AND ORDER" class="center">
+    <heading>DECISION AND ORDER</heading>
+    <para>
     <num>&#182;1</num>
     <text>Tribal Court of Appeals Panel presiding judges: Judge Stanley R. Webster, Oneida Tribal Judicial System, Marian Higgins, Stockbridge-Munsee Tribal Court, and Janice L. McLester, Oneida Tribal Judicial System.</text>
   </para>
@@ -116,6 +118,7 @@
     <text>Judge Janice L. McLester, Pro Tem</text>
     <text>Oneida Tribal Judicial System</text>
   </procedural-data>
+  </container>
   <footnotes>
     <footnote>
       <num>1</num>
