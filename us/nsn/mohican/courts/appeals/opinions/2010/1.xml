@@ -78,13 +78,13 @@
         <text>The Court dismisses Appellant's appeal.</text>
       </para>
     </container>
-    <procedural-data>
-      <text>Dated this 19th day of January 2010</text>
-      <text>Pro tempore, Honorable Mary Adams</text>
-      <text>Pro tempore, Honorable Robert Christjohn</text>
-      <text>Honorable Marianne Higgins</text>
-    </procedural-data>
   </container>
+  <procedural-data>
+    <text>Dated this 19th day of January 2010</text>
+    <text>Pro tempore, Honorable Mary Adams</text>
+    <text>Pro tempore, Honorable Robert Christjohn</text>
+    <text>Honorable Marianne Higgins</text>
+  </procedural-data>
   <container name="CONCURRENT OPINION" class="center">
     <heading>CONCURRENT OPINION</heading>
     <para>

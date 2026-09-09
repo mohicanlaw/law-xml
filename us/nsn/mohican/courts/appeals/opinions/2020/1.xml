@@ -124,19 +124,19 @@
         </para>
       </para>
     </container>
-    <procedural-data>
-      <text>IT IS SO ORDERED.</text>
-      <text>
-      <strong>Entered this 1</strong>
-      <sup>
-        <strong>st</strong>
-      </sup>
-      <strong> day of March, 2020</strong>
-    </text>
-      <text>Eric M. Lochen</text>
-      <text>Chief Justice</text>
-    </procedural-data>
   </container>
+  <procedural-data>
+    <text>IT IS SO ORDERED.</text>
+    <text>
+    <strong>Entered this 1</strong>
+    <sup>
+    <strong>st</strong>
+    </sup>
+    <strong> day of March, 2020</strong>
+    </text>
+    <text>Eric M. Lochen</text>
+    <text>Chief Justice</text>
+  </procedural-data>
   <footnotes>
     <footnote>
       <num>1</num>

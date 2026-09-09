@@ -19,13 +19,13 @@
       </party>
     </parties>
   </meta>
-  <container name="OPINION AND ORDER" class="center">
-    <heading>OPINION AND ORDER</heading>
+  <container name="DECISION AND ORDER" class="center">
+    <heading>DECISION AND ORDER</heading>
     <container name="Jurisdictional Statement">
       <heading>Jurisdictional Statement</heading>
       <para>
         <num>&#182;1</num>
-        <text>Petitioner, Stockbridge-Munsee Community, a federally recognized Tribe, appeals from a Stockbridge-Munsee Tribal Court decision on an Administrative Appeal of an Employment Mediation Pane's (EMP) position that they could not reach a decision under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53, the Tribe's Employee Rights Ordinance</cite>.</text>
+        <text>Petitioner, Stockbridge-Munsee Community, a federally recognized Tribe, appeals from a Stockbridge-Munsee Tribal Court decision on an Administrative Appeal of an Employment Mediation Panel's (EMP) position that they could not reach a decision under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53, the Tribe's Employee Rights Ordinance</cite>.</text>
       </para>
       <para>
         <num>&#182;2</num>
@@ -44,7 +44,7 @@
       </para>
       <para>
         <num>&#182;5</num>
-        <text>On March 21, 1995, the Tribal Council implemented a Wage Classification Scale (page 5 regular Tribal Council Meeting minutes 3-21-95 which established a system whereby most positions within Tribal employment were placed into a pay grade with each pay grade describing a range of wages. Ms. Vlasak's position as CHR was placed in Grade 5 and because of her longevity, experience and performance, her hourly rate was set at the maximum level in Grade 5 or $10.59 per hour.</text>
+        <text>On March 21, 1995, the Tribal Council implemented a Wage Classification Scale (page 5 regular Tribal Council Meeting minutes 3-21-95) which established a system whereby most positions within Tribal employment were placed into a pay grade with each pay grade describing a range of wages. Ms. Vlasak's position as CHR was placed in Grade 5 and because of her longevity, experience and performance, her hourly rate was set at the maximum level in Grade 5 or $10.59 per hour.</text>
       </para>
       <para>
         <num>&#182;6</num>
@@ -156,14 +156,14 @@
         <text>Accordingly, we unanimously reverse the decision and stay the judgment of the Trial Court.</text>
       </para>
     </container>
-    <procedural-data>
-      <text>Dated this 20th day of August 1997</text>
-      <text>Honorable David D. Raasch, Chief Judge</text>
-      <text>Stockbridge-Munsee Tribal Court of Appeals</text>
-      <text>Honorable Gerald Danforth, Associate Judge</text>
-      <text>Stockbridge-Munsee Tribal Court of Appeals</text>
-      <text>Honorable Eugene White-Fish, Associate Judge</text>
-      <text>Stockbridge-Munsee Tribal Court of Appeals</text>
-    </procedural-data>
   </container>
+  <procedural-data>
+    <text>Dated this 20th day of August 1997</text>
+    <text>Honorable David D. Raasch, Chief Judge</text>
+    <text>Stockbridge-Munsee Tribal Court of Appeals</text>
+    <text>Honorable Gerald Danforth, Associate Judge</text>
+    <text>Stockbridge-Munsee Tribal Court of Appeals</text>
+    <text>Honorable Eugene White-Fish, Associate Judge</text>
+    <text>Stockbridge-Munsee Tribal Court of Appeals</text>
+  </procedural-data>
 </document>
