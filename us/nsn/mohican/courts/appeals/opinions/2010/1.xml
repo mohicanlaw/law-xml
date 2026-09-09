@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache"
-  xmlns:citations="https://open.law/schemas/citations"
-  xmlns:macro="https://open.law/schemas/macro"
-  xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns="https://open.law/schemas/library"
-  xmlns:codified="https://open.law/schemas/codified"
-  xmlns:codify="https://open.law/schemas/codify"
-  xmlns:xi="http://www.w3.org/2001/XInclude" id="2010 SMTCA 1">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2010 SMTCA 1">
   <num>2010 SMTCA 1</num>
   <heading>Stockbridge-Munsee Community, et al. vs. Beverly Jacobs</heading>
   <meta>
@@ -85,75 +77,4 @@
     <text>Pro tempore, Honorable Robert Christjohn</text>
     <text>Honorable Marianne Higgins</text>
   </procedural-data>
-  <container name="CONCURRENT OPINION" class="center">
-    <heading>CONCURRENT OPINION</heading>
-    <para>
-      <num>&#182;9</num>
-      <text>The following does not disagree with the majority. The concurrent statement just expands the Appellate Record. Case Number 2009-AP 2008-CV-0033</text>
-    </para>
-    <container name="HISTORICAL BACKGROUND">
-      <heading>HISTORICAL BACKGROUND</heading>
-      <para>
-        <num>&#182;10</num>
-        <text>On or about July 24, 2007 the good citizen, William Terrio, reported suspicious activities at Beverly Jacobs home, N8698 Popular to Officer Hoffman. Officer Hoffman investigated via surveillance of the residence in question. After observing traffic flow, the Officer concluded the house likely was a "drug house" trafficking and/or selling drugs. On two occasions garbage was collected and trace amounts of THC was found. Likewise Officer Hoffman's supervisors and Shawano Circuit Court concluded the warrant less garbage search and related traffic supported the need for a search warrant. After a search using multiple Officers and a K-9 unit, the warrant produced a pipe, various cigarette wrappers and some roaches. The total amount of marijuana (THC) was less than one gram. Of which the total amount Contraband (THC) consisted of some seeds and stem material found in garbage bags. In addition, there was material scrapped from an alleged forty (40) year old pipe and some material were found that was used for medical purposes. This Court will neither support nor condemn medical use of marijuana. The fact is after months of investigation, the final amount of contraband totaled less than three (3) grams. The inventory found it would be hard pressed to conclude there was any drug trafficking taking place.</text>
-      </para>
-      <para>
-        <num>&#182;11</num>
-        <text>The Lower Court held a trial April 23, 2009 and offered a final ruling July 22, 2009. The Lower Court and this Appellate Court both concur this case is troubling and difficult case. The issue of Mohican Nation's Sovereignty is an issue this Court does not take lightly. The search warrant matter will be addressed later in this concurrent ruling.</text>
-      </para>
-      <para>
-        <num>&#182;12</num>
-        <text>As stated above, Robert Miller, Jr., Chief Judge, Stockbridge-Munsee Tribal Court, ruled, "As a result of the Stockbridge-Munsee Public Service Officers failure to comply with Stockbridge-Munsee Tribal Rules of Procedure and Law, The Court orders this case be dismissed with prejudice." The Order was signed and dated July 22, 2009.</text>
-      </para>
-      <para>
-        <num>&#182;13</num>
-        <text>The Order was appealed via letter August 27, 2009 and hand delivered to the Tribal Court Clerk, Wayne Malone, on August 28, 2009. The above mentioned letter was signed by Howard J. Bichler, Attorney for Stockbridge-Munsee. It is Brian R. Johnson, Attorney for the Respondent and Interested party, argue the appeal failed to meet time lines and should be dismissed.</text>
-      </para>
-    </container>
-    <container name="JURISDICTION">
-      <heading>JURISDICTION</heading>
-      <para>
-        <num>&#182;14</num>
-        <text>The matter in question is clearly a civil matter and there is no dispute on eviction matters related to the Tribe's Housing Department. However, there is a dispute over criminal and tribal procedures related to a search warrant.</text>
-      </para>
-    </container>
-    <container name="FINDING">
-      <heading>FINDING</heading>
-      <para>
-        <num>&#182;15</num>
-        <text>On or about July 24, 2007, a citizen reported as many as thirty (30) cars drive up to Beverly Jacobs home on a regular basis. Officer James Hoffman would testify he also observed similar traffic patterns and concluded drug trafficking was taking place. He also enlisted garbage men to collect evidence for activities his training indicated was drug traffic. Testimony in the trial would conclude there was no sinister activity taking place. On the contrary, the traffic was that of community members coming and going to cultural activities such as drumming, community counseling, caring for hungry children, educating community visitors, and feeding tribal elders. Testimony was provided that approximately 400 Mohican people live on the Reservation.</text>
-      </para>
-      <para>
-        <num>&#182;16</num>
-        <text>It is a mystery to this Court how Peace Officer Hoffman, and his entire chain of command were not aware of the good deeds Mr. Tousey and Ms. Jacobs performed. The Stockbridge community is not that large and the services they provided should have been common knowledge of the entire Police Department. Attorney Johnson did not seem to have trouble finding numerous character witnesses for Mr. Tousey and Ms. Jacobs. In particular, Mr. Coys (Uncle) requested, "the Court rule on the good side for these two good people".</text>
-      </para>
-      <para>
-        <num>&#182;17</num>
-        <text>The underlying issue is what Court should authorize search warrants in or on Mohican Territory? Judge Miller was clear and sound. The Stockbridge-Munsee Court procedure allows for civil and Criminal search warrants. As Public Law 280 should the fruit of such warrants indicate civil or Criminal evidence such matters can be turned over to proper authority.</text>
-      </para>
-      <para>
-        <num>&#182;18</num>
-        <text>However, Howard J. Bichler, Attorney for Stockbridge-Munsee demanding the Appellate Court Assume Jurisdiction and reverse Case #1008-CV-0033. It is the position of Petitioner that the following took place:</text>
-        <include>
-          <text>The Court errored determining that the Stockbridge-Munsee Police sought a search warrant from Shawano County instead of the Tribal Court.</text>
-          <text>The Court errored by asserting Criminal Law ie search warrant over a non-Indian in violation of Oliphant v Seqvamish Tribe vs. Supreme Court, 435 vs. 191(1978).</text>
-          <text>The Court errored by asserting criminal law on the Reservation contrary to P.L. 280.</text>
-          <text>The Court errored by asserting contempt sanction of Section 21(1) of the RCP apply to the police who chose to seek a search warrant from Shawano Court instead of the Stockbridge-Munsee Court.</text>
-          <text>The Court errored the search warrant issue was part of the eviction action.</text>
-          <text>The Court errored by allowing testimony over the objection of Petitioner as to basis and evidence produced via the warrant.</text>
-        </include>
-      </para>
-      <para>
-        <num>&#182;19</num>
-        <text>The Respondent has requested the Appellate Court dismiss the appeal based on timeliness or failure to meet established time frames outlined in 46. 6-12. of the Stockbridge-Munsee Housing Ordinance.</text>
-      </para>
-      <para proof="needed">
-        <num>&#182;20</num>
-        <text>The portion of ordinance reads as follows:</text>
-        <include>
-          <text proof="needed">Appeals under the Ordinance shall be handled according to the general tribal Appellate provisions, with the exception that the party filing the appeal shall</text>
-        </include>
-      </para>
-    </container>
-  </container>
 </document>
